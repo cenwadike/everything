@@ -1,0 +1,5521 @@
+{
+	"suave.near": {
+		"graph": {
+			"follow": {
+				"root.near": true,
+				"mob.near": true,
+				"zavodil.near": true,
+				"self.social.near": true,
+				"rustyguild.near": true,
+				"blaze.near": true,
+				"vlad.near": true,
+				"marieke.near": true,
+				"vadim.near": true,
+				"aliaksandrh.near": true,
+				"0_o.starpause.near": true,
+				"nfcommunity.near": true,
+				"vianftbrasil.near": true,
+				"nearbrasil.near": true
+			}
+		}
+	},
+	"oskarlee.near": {
+		"graph": {
+			"follow": {
+				"root.near": true,
+				"neardevgov.near": true,
+				"mob.near": true,
+				"marieke.near": true,
+				"0_o.starpause.near": true,
+				"joshua.near": true,
+				"woben.near": true,
+				"mike.near": true,
+				"petersalomonsen.near": true,
+				"aliaksandrh.near": true,
+				"dgorton.near": true,
+				"minz.near": true,
+				"cronus.near": true,
+				"simonemelanie.near": true,
+				"keyokey.near": true,
+				"rezadeli.near": true,
+				"opshenry.near": true,
+				"chloe.near": true,
+				"kimchiman.near": true,
+				"cudam321.near": true
+			}
+		}
+	},
+	"chiha9.near": {
+		"graph": {
+			"follow": {
+				"itsmarcus.near": true,
+				"davidmo.near": true,
+				"fiatisabubble.near": true,
+				"flmel.near": true,
+				"microchipgnu.near": true,
+				"dk_51.near": true,
+				"auroraecosystemnews.near": true,
+				"rektdegen.near": true,
+				"rimberjack.near": true,
+				"mr27.near": true,
+				"mob.near": true,
+				"andreapn.near": true,
+				"near": true,
+				"nearvietnamhub.near": true,
+				"cuongdcdev.near": true,
+				"meta-pool-official.near": true,
+				"cameron_banyan.near": true,
+				"rahulgoel.near": true,
+				"root.near": true,
+				"psalm.near": true,
+				"nearmax.near": true,
+				"davletuner.near": true,
+				"neardigitalcollective.near": true,
+				"marieke.near": true,
+				"blaze.near": true,
+				"pagodaplatform.near": true,
+				"nfcommunity.near": true,
+				"williamxx.near": true,
+				"reup.near": true,
+				"dach.near": true,
+				"dapppunk.near": true,
+				"riqi.near": true,
+				"jimything.near": true,
+				"raili.near": true,
+				"justyy.near": true,
+				"pumpopoly.near": true,
+				"johan974.near": true,
+				"gauthamravi.near": true,
+				"jlw.near": true,
+				"0_o.starpause.near": true,
+				"harveys.near": true,
+				"roshaan.near": true,
+				"crans.near": true
+			}
+		}
+	},
+	"thanhconsigliere.near": {
+		"graph": {
+			"follow": {
+				"root.near": true,
+				"cuongdcdev.near": true,
+				"chuyenbannon.near": true
+			}
+		}
+	},
+	"waclaw.near": {
+		"graph": {
+			"follow": {
+				"mm-near.near": true,
+				"root.near": true,
+				"self.social.near": true,
+				"nearmax.near": true
+			}
+		}
+	},
+	"alexanderjj.near": {
+		"graph": {
+			"follow": {
+				"keyokey.near": true,
+				"dapppunk.near": true,
+				"sharddog.near": true,
+				"near-german.sputnik-dao.near": true,
+				"cameron_banyan.near": true,
+				"harshit.near": true,
+				"marieke.near": true,
+				"root.near": true,
+				"chro.near": true,
+				"dach.near": true,
+				"robbielim.near": true,
+				"samwangnf.near": true,
+				"ketchupmeow.near": true,
+				"rimberjack.near": true,
+				"davidweinstein.near": true,
+				"maggie.near": true,
+				"watermelontoo.near": true,
+				"davidmo.near": true,
+				"shreyas.near": true,
+				"mattlock.near": true,
+				"nearmax.near": true,
+				"self.social.near": true,
+				"softcloud.near": true,
+				"infinity.near": true,
+				"leileitoo.near": true,
+				"sarifirfir.near": true,
+				"philippsuarez.near": true,
+				"cuongdcdev.near": true,
+				"itsmarcus.near": true,
+				"alejandro.near": true,
+				"oleg.sweat": true,
+				"robbbbbw.near": true,
+				"jlw.near": true,
+				"vikash.near": true,
+				"bosman.near": true,
+				"anoname.near": true,
+				"atrox1382.near": true,
+				"0_o.starpause.near": true,
+				"krikkraktrak.near": true,
+				"vlad.near": true,
+				"luacan.near": true,
+				"nate.near": true,
+				"piggins.near": true,
+				"heyw00d.near": true,
+				"nathanx.near": true,
+				"ambushedaardvark.near": true,
+				"c_v_d.near": true,
+				"mob.near": true,
+				"blockchain-success.near": true,
+				"ynottryit.near": true,
+				"promo.fewandfar.near": true,
+				"bennyblanco.near": true,
+				"elcafecartel.near": true,
+				"business-development.near": true,
+				"0xarpit.near": true,
+				"wreynoir.near": true,
+				"jarrodbarnes.near": true,
+				"kenjon.near": true,
+				"superfungible.near": true,
+				"keypom.near": true,
+				"kianavi.near": true,
+				"root.benjiman.near": true,
+				"cwpuzzles.near": true,
+				"calmxyz.near": true,
+				"osc.near": true,
+				"bjirken.near": true,
+				"fblauer.near": true,
+				"cosmoshoss.near": true,
+				"changwe.near": true,
+				"nfcommunity.near": true,
+				"as2.near": true,
+				"nearvietnamhub.near": true,
+				"woben.near": true,
+				"lei-lei321.near": true,
+				"anmatig.near": true,
+				"bianca.near": true,
+				"rogues.near": true,
+				"builtonnear.near": true,
+				"carolin.near": true,
+				"joannaorlova.near": true,
+				"achildhoodhero.near": true,
+				"orangejoe.near": true,
+				"devs.near": true,
+				"meteor-wallet.near": true,
+				"nearweek.near": true,
+				"gusthecruel.near": true,
+				"jarednotjerry.near": true,
+				"coineasydao.near": true,
+				"odins_eyehole.near": true,
+				"rahulgoel.near": true,
+				"vianftbrasil.near": true
+			}
+		}
+	},
+	"nkurtov.near": {
+		"graph": {
+			"follow": {
+				"mm-near.near": true,
+				"sarifirfir.near": true,
+				"jakmeier.near": true,
+				"khorolets.near": true,
+				"pagodaplatform.near": true,
+				"gmilescu.near": true,
+				"woben.near": true,
+				"zavodil.near": true,
+				"vadim.near": true,
+				"nearmax.near": true,
+				"joshua.near": true,
+				"frol.near": true,
+				"nearpavel.near": true,
+				"jlw.near": true,
+				"davletuner.near": true
+			}
+		}
+	},
+	"cjpd.near": {
+		"graph": {
+			"follow": {
+				"keyokey.near": true,
+				"root.near": true,
+				"marieke.near": true,
+				"mr27.near": true,
+				"atrox1382.near": true,
+				"infinity.near": true,
+				"goldich.near": true
+			}
+		}
+	},
+	"sally0.near": {
+		"graph": {
+			"follow": {
+				"sonnet.near": true,
+				"root.near": true,
+				"jamierobshaw.near": true,
+				"nallin.near": true,
+				"sarifirfir.near": true,
+				"keyokey.near": true,
+				"peechz.near": true,
+				"joshua.near": true,
+				"urbanite.near": true,
+				"c_v_d.near": true,
+				"lornyp.near": true,
+				"julie.near": true,
+				"nearpavel.near": true,
+				"jakmeier.near": true,
+				"aliaksandrh.near": true,
+				"chaotictempest.near": true,
+				"roshaan.near": true,
+				"near": true
+			}
+		}
+	},
+	"samwangnf.near": {
+		"graph": {
+			"follow": {
+				"root.near": true,
+				"mob.near": true,
+				"zavodil.near": true,
+				"rustyguild.near": true,
+				"self.social.near": true,
+				"blaze.near": true,
+				"vlad.near": true,
+				"marieke.near": true,
+				"vadim.near": true,
+				"aliaksandrh.near": true,
+				"0_o.starpause.near": true,
+				"alejandro.near": true,
+				"nearmax.near": true,
+				"whendacha.near": true,
+				"mattlock.near": true,
+				"cronus.near": true,
+				"duocelot.near": true,
+				"mike.near": true,
+				"keyokey.near": true,
+				"davidmo.near": true,
+				"readylayerone.near": true,
+				"silly_psyop.near": true,
+				"mr27.near": true,
+				"softcloud.near": true,
+				"davidweinstein.near": true,
+				"rektdegen.near": true,
+				"sarifirfir.near": true,
+				"rimberjack.near": true,
+				"matth.near": true,
+				"woben.near": true,
+				"truescience.near": true,
+				"auroraecosystemnews.near": true,
+				"theeggis.near": true,
+				"philippsuarez.near": true,
+				"piggins.near": true,
+				"shreyas.near": true,
+				"customnft.near": true,
+				"nearvietnamhub.near": true,
+				"chro.near": true,
+				"harshit.near": true,
+				"herewallet.near": true,
+				"refsocial.near": true,
+				"electron_labs.near": true,
+				"jquant.near": true,
+				"hypefairy.near": true,
+				"maggie.near": true,
+				"cameron_banyan.near": true,
+				"lachlan.near": true,
+				"leileitoo.near": true,
+				"watermelontoo.near": true,
+				"robbielim.near": true,
+				"robbbbbw.near": true,
+				"nate.near": true,
+				"dgorton.near": true,
+				"jlw.near": true,
+				"tiffany.near": true,
+				"alexanderjj.near": true,
+				"dapppunk.near": true,
+				"keypom.near": true,
+				"ynottryit.near": true,
+				"chrisclason.near": true,
+				"p3ter.near": true,
+				"neardevgov.near": true,
+				"jarrodbarnes.near": true,
+				"superfungible.near": true,
+				"ambushedaardvark.near": true,
+				"blockchain-success.near": true,
+				"ketchupmeow.near": true,
+				"bosman.near": true,
+				"business-development.near": true,
+				"cuongdcdev.near": true,
+				"0xarpit.near": true,
+				"kenjon.near": true,
+				"william-reynoir.near": true,
+				"petarvujovic.near": true,
+				"jake.near": true,
+				"pierre-dev.near": true,
+				"charleslavon.near": true,
+				"nearhorizon.near": true,
+				"near": true,
+				"builtonnear.near": true,
+				"y3k.near": true,
+				"abhishekanirudhan.near": true,
+				"rogues.near": true,
+				"lei-lei321.near": true,
+				"nycdao.near": true,
+				"neartasks.near": true
+			}
+		}
+	},
+	"lewidenmann.near": {
+		"graph": {
+			"follow": {
+				"mob.near": true,
+				"chaotictempest.near": true,
+				"charleslavon.near": true,
+				"michaelpeter.near": true,
+				"calebjacob.near": true,
+				"oztanmain.near": true,
+				"sonnet.near": true,
+				"julie.near": true,
+				"nearpavel.near": true,
+				"peechz.near": true,
+				"allez.near": true,
+				"urbanite.near": true,
+				"a92d2106fd31a2d52501953961b1639745434ee343fb6303e4d0195b501b75ad": true,
+				"reefoh.near": true,
+				"miraclx.near": true,
+				"0e867226bd2e656f5680d33bc767551c6f4892028120ad70999fb9062983673d": true
+			}
+		}
+	},
+	"forgash.near": {
+		"graph": {
+			"follow": {
+				"davidweinstein.near": true,
+				"james.near": true,
+				"devgovgigs.near": true,
+				"y3k.near": true,
+				"0e7a82d0ef92b5559ef04df11f5de68ac4c4479319da5a72b3e2799c4717a422": true
+			}
+		}
+	},
+	"andyh.near": {
+		"graph": {
+			"follow": {
+				"trechriron.near": true,
+				"morgs.near": true,
+				"nallin.near": true
+			}
+		}
+	},
+	"morgs.near": {
+		"graph": {
+			"follow": {
+				"trechriron.near": true,
+				"andyh.near": true,
+				"nearpavel.near": true
+			}
+		}
+	},
+	"calebjacob.near": {
+		"graph": {
+			"follow": {
+				"oztanmain.near": true,
+				"sonnet.near": true,
+				"lewidenmann.near": true,
+				"a92d2106fd31a2d52501953961b1639745434ee343fb6303e4d0195b501b75ad": true,
+				"humoungus_donkey.near": true,
+				"miraclx.near": true,
+				"0e867226bd2e656f5680d33bc767551c6f4892028120ad70999fb9062983673d": true,
+				"michaelpeter.near": true,
+				"toolipse.near": true,
+				"mob.near": true,
+				"near": true,
+				"keyokey.near": true,
+				"824822f321790655a607706be1909d72a85ed35d9b26a43c47c0c1ec2643a20d": true,
+				"root.near": true,
+				"flatirons.near": true,
+				"roshaan.near": true,
+				"pagoat.near": true,
+				"jinou.near": true
+			}
+		}
+	},
+	"wolfberrie.near": {
+		"graph": {
+			"follow": {
+				"nearpavel.near": true,
+				"urbanite.near": true,
+				"0_o.starpause.near": true,
+				"edwardkcyu.near": true,
+				"nallin.near": true,
+				"corwin.near": true,
+				"2e77cb43eec84493cf57d93005f9b834ac93d787e41667f8c37222024e412656": true,
+				"sarahbakermills.near": true,
+				"mob.near": true
+			}
+		}
+	},
+	"c_v_d.near": {
+		"graph": {
+			"follow": {
+				"sonnet.near": true,
+				"root.near": true,
+				"blaze.near": true,
+				"keyokey.near": true,
+				"sarifirfir.near": true,
+				"jlw.near": true,
+				"woben.near": true,
+				"joshua.near": true,
+				"nearmax.near": true,
+				"marieke.near": true,
+				"urbanite.near": true,
+				"dgorton.near": true,
+				"nallin.near": true,
+				"jeffsatori.near": true,
+				"jake.near": true,
+				"lornyp.near": true,
+				"sally0.near": true,
+				"jamierobshaw.near": true,
+				"zavodil.near": true,
+				"mob.near": true,
+				"mm-near.near": true,
+				"minz.near": true,
+				"logunov.near": true,
+				"readylayerone.near": true,
+				"nearpavel.near": true,
+				"alejandro.near": true,
+				"tiffany.near": true,
+				"corwin.near": true,
+				"julie.near": true,
+				"near": true,
+				"jakmeier.near": true
+			}
+		}
+	},
+	"devs.near": {
+		"graph": {
+			"follow": {
+				"hackerhouse.near": true,
+				"root.near": true,
+				"minorityprogrammers.near": true,
+				"microchipgnu.near": true,
+				"manzanal.near": true,
+				"sking.near": true,
+				"mob.near": true,
+				"efiz.near": true,
+				"zavodil.near": true,
+				"y3k.near": true,
+				"zahidulislam.near": true,
+				"markeljan.near": true,
+				"cuongdcdev.near": true,
+				"harrydhillon.near": true,
+				"wendersonpires.near": true,
+				"mattlock.near": true,
+				"0xprometheus.near": true,
+				"frol.near": true,
+				"jgodwill.near": true,
+				"vlad.near": true,
+				"gagdiez.near": true,
+				"petersalomonsen.near": true,
+				"root.akaia.near": true,
+				"root.benjiman.near": true,
+				"michaelpeter.near": true,
+				"p516entropy.near": true,
+				"azbang.near": true,
+				"orangejoe.near": true,
+				"djwine_official.near": true,
+				"alan777.near": true,
+				"joshua.near": true,
+				"bo.near": true,
+				"silkking.near": true,
+				"eugenewolf507.near": true,
+				"marior.near": true,
+				"petarvujovic.near": true,
+				"dapppunk.near": true,
+				"calebjacob.near": true,
+				"chaotictempest.near": true,
+				"lewidenmann.near": true,
+				"roshaan.near": true,
+				"mintlu.near": true,
+				"db371.near": true,
+				"jimything.near": true,
+				"gordonjun.near": true,
+				"flowscience.near": true,
+				"williamxx.near": true,
+				"austinballard.near": true,
+				"thanhdt9279.near": true,
+				"everettbu.near": true,
+				"819c44a1bdd666dce2119a6e92f9d7643136e02fc577e6cd0542bb38f6172b4a": true,
+				"liberty.sputnik-dao.near": true
+			}
+		}
+	},
+	"jakmeier.near": {
+		"graph": {
+			"follow": {
+				"gmilescu.near": true,
+				"urbanite.near": true,
+				"root.near": true,
+				"self.social.near": true,
+				"marieke.near": true,
+				"keyokey.near": true,
+				"nearmax.near": true,
+				"joshua.near": true,
+				"nearpavel.near": true,
+				"sonnet.near": true,
+				"julie.near": true,
+				"jlw.near": true,
+				"frol.near": true,
+				"gov.near": true,
+				"c_v_d.near": true,
+				"woben.near": true,
+				"sarifirfir.near": true,
+				"logunov.near": true,
+				"minz.near": true,
+				"khorolets.near": true,
+				"austinabell.near": true,
+				"sally0.near": true,
+				"theori.near": true,
+				"zavodil.near": true,
+				"mm-near.near": true,
+				"nkurtov.near": true,
+				"mob.near": true,
+				"near": true,
+				"pugachag.near": true,
+				"auroraecosystemnews.near": true,
+				"marcelo.near": true,
+				"pagodaplatform.near": true,
+				"dach.near": true
+			}
+		}
+	},
+	"pugachag.near": {
+		"graph": {
+			"follow": {
+				"logunov.near": true,
+				"mm-near.near": true,
+				"jakmeier.near": true,
+				"woben.near": true
+			}
+		}
+	},
+	"mc2128.near": {
+		"graph": {
+			"follow": {
+				"chuyenbannon.near": true,
+				"cuongdcdev.near": true
+			}
+		}
+	},
+	"rapidlawn.near": {
+		"graph": {
+			"follow": {
+				"c_v_d.near": true,
+				"keyokey.near": true,
+				"root.near": true,
+				"mob.near": true,
+				"marieke.near": true,
+				"nearmax.near": true,
+				"sonnet.near": true,
+				"jamierobshaw.near": true,
+				"davidweinstein.near": true,
+				"julie.near": true,
+				"michaelpeter.near": true,
+				"woben.near": true,
+				"tiffany.near": true,
+				"f43da983d78f3289720db92740e0bc254330a323ede28e54e21269f57a1b3898": true,
+				"serhii.near": true,
+				"nearpavel.near": true,
+				"reefoh.near": true,
+				"toolipse.near": true,
+				"sonke.near": true,
+				"near": true,
+				"oleg.sweat": true
+			}
+		}
+	},
+	"votanlean.near": {
+		"graph": {
+			"follow": {
+				"cuongdcdev.near": true,
+				"rileytran.near": true,
+				"ihyshan.near": true
+			}
+		}
+	},
+	"temtem124.near": {
+		"graph": {
+			"follow": {
+				"nearweek-news-contribution.sputnik-dao.near": true,
+				"cacossio.near": true,
+				"borderlesscommunity.near": true,
+				"aurobotsrollout.near": true,
+				"aurobot99.near": true,
+				"krikkraktrak.near": true,
+				"bennyblanco.near": true,
+				"tedlasso.near": true,
+				"create.near": true,
+				"elcafecartel.near": true,
+				"root.near": true
+			}
+		}
+	},
+	"nqd2003.near": {
+		"graph": {
+			"follow": {
+				"cuongdcdev.near": true,
+				"auroraecosystemnews.near": true
+			}
+		}
+	},
+	"minz.near": {
+		"graph": {
+			"follow": {
+				"root.near": true,
+				"mob.near": true,
+				"zavodil.near": true,
+				"rustyguild.near": true,
+				"self.social.near": true,
+				"blaze.near": true,
+				"marieke.near": true,
+				"vadim.near": true,
+				"nearmax.near": true,
+				"cronus.near": true,
+				"infinity.near": true,
+				"mike.near": true,
+				"nallin.near": true,
+				"partners.learnclub.near": true,
+				"whendacha.near": true,
+				"keyokey.near": true,
+				"saketh.near": true,
+				"jlw.near": true,
+				"c_v_d.near": true,
+				"miraclx.near": true
+			}
+		}
+	},
+	"bbdb07e5bbdee0bd96df4b2eb011be923ec5af14e58d867a95b3ab61b87c19e1": {
+		"graph": {
+			"follow": {
+				"forgash.near": true,
+				"alexanderjj.near": true,
+				"c_v_d.near": true,
+				"webuidl.near": true,
+				"marior.near": true,
+				"serhii.near": true,
+				"humoungus_donkey.near": true,
+				"maily_gwen_social.near": true,
+				"andreapn.near": true,
+				"mike.near": true,
+				"tandethuong.near": true,
+				"bagadefente.near": true,
+				"cryptocoinshow.near": true,
+				"opshenry.near": true,
+				"kepka.near": true,
+				"alejandro.near": true,
+				"jahzone.near": true,
+				"rektdegen.near": true,
+				"petersalomonsen.near": true,
+				"bancambios.near": true,
+				"cronus.near": true,
+				"zanli.near": true,
+				"fiatisabubble.near": true,
+				"mami.near": true,
+				"williamxx.near": true,
+				"haenko.near": true,
+				"chloe.near": true,
+				"petarvujovic.near": true,
+				"nulandani.near": true,
+				"ozymandius.near": true,
+				"mi4ka.near": true,
+				"bluesquid.near": true,
+				"xslymn.near": true,
+				"piratek.near": true,
+				"marcelokunze.near": true
+			}
+		}
+	},
+	"oztanmain.near": {
+		"graph": {
+			"follow": {
+				"calebjacob.near": true,
+				"lewidenmann.near": true,
+				"a92d2106fd31a2d52501953961b1639745434ee343fb6303e4d0195b501b75ad": true,
+				"humoungus_donkey.near": true,
+				"0e867226bd2e656f5680d33bc767551c6f4892028120ad70999fb9062983673d": true,
+				"miraclx.near": true,
+				"bo.near": true,
+				"roshaan.near": true,
+				"julie.near": true,
+				"reefoh.near": true,
+				"sonnet.near": true,
+				"nallin.near": true,
+				"chaotictempest.near": true,
+				"charleslavon.near": true,
+				"jlw.near": true,
+				"joshua.near": true,
+				"nearpavel.near": true,
+				"mob.near": true,
+				"cronus.near": true,
+				"keyokey.near": true,
+				"serhii.near": true,
+				"patrick.near": true,
+				"frol.near": true,
+				"humanman.near": true,
+				"zavodil.near": true,
+				"vadim.near": true,
+				"chefsale.near": true,
+				"sarifirfir.near": true,
+				"sonke.near": true,
+				"michaelpeter.near": true,
+				"infinity.near": true,
+				"microchipgnu.near": true,
+				"mike.near": true,
+				"pagoat.near": true,
+				"root.near": true,
+				"jinou.near": true,
+				"cuongdcdev.near": true,
+				"0abcfb7b41666d7cea2d2689a83aab884debc12d7b071a718f5feab914a89066": true,
+				"hackerhouse.near": true,
+				"cameron_banyan.near": true,
+				"zahid": true,
+				"chloe.near": true,
+				"blaze.near": true
+			}
+		}
+	},
+	"julie.near": {
+		"graph": {
+			"follow": {
+				"oztanmain.near": true,
+				"miraclx.near": true,
+				"nearmax.near": true,
+				"lewidenmann.near": true,
+				"roshaan.near": true,
+				"keyokey.near": true,
+				"nallin.near": true,
+				"nearpavel.near": true,
+				"cronus.near": true,
+				"joshua.near": true,
+				"sonnet.near": true,
+				"mob.near": true,
+				"urbanite.near": true,
+				"blaze.near": true,
+				"c_v_d.near": true,
+				"alejandro.near": true,
+				"jlw.near": true,
+				"0_o.starpause.near": true,
+				"sarifirfir.near": true,
+				"davidmo.near": true,
+				"nate.near": true,
+				"root.near": true,
+				"charleslavon.near": true,
+				"serhii.near": true,
+				"aliaksandrh.near": true,
+				"vlad.near": true,
+				"chaotictempest.near": true,
+				"frol.near": true,
+				"zavodil.near": true,
+				"peechz.near": true,
+				"hackerhouse.near": true
+			}
+		}
+	},
+	"allez.near": {
+		"graph": {
+			"follow": {
+				"lewidenmann.near": true,
+				"peechz.near": true,
+				"nearpavel.near": true,
+				"julie.near": true,
+				"readylayerone.near": true
+			}
+		}
+	},
+	"edwardkcyu.near": {
+		"graph": {
+			"follow": {
+				"urbanite.near": true,
+				"0_o.starpause.near": true,
+				"mob.near": true,
+				"zavodil.near": true,
+				"root.near": true,
+				"wolfberrie.near": true
+			}
+		}
+	},
+	"backsterfrance.near": {
+		"graph": {
+			"follow": {
+				"partners.learnclub.near": true
+			}
+		}
+	},
+	"backsterswit.near": {
+		"graph": {
+			"follow": {
+				"partners.learnclub.near": true
+			}
+		}
+	},
+	"mysox.near": {
+		"graph": {
+			"follow": {
+				"partners.learnclub.near": true
+			}
+		}
+	},
+	"soloqueue.near": {
+		"graph": {
+			"follow": {
+				"duocelot.near": true
+			}
+		}
+	},
+	"atrox1382.near": {
+		"graph": {
+			"follow": {
+				"alejandro.near": true,
+				"blaze.near": true,
+				"mattlock.near": true,
+				"root.near": true,
+				"rektdegen.near": true,
+				"odins_eyehole.near": true,
+				"marieke.near": true,
+				"infinity.near": true,
+				"web3hedge.near": true,
+				"aurobot99.near": true,
+				"alexanderjj.near": true,
+				"gov.near": true,
+				"create.near": true,
+				"rebecca.near": true,
+				"sahilmassey.near": true,
+				"davidmo.near": true,
+				"bluntdao.near": true,
+				"cjpd.near": true,
+				"goldich.near": true,
+				"achildhoodhero.near": true,
+				"govworkinggroup.near": true,
+				"neardigitalcollective.near": true,
+				"carolin.near": true,
+				"hypefairy.near": true,
+				"rockyyy.near": true,
+				"kazanderdad.near": true,
+				"jlw.near": true,
+				"fiftycent.near": true,
+				"whendacha.near": true,
+				"chloe.near": true,
+				"rahulgoel.near": true,
+				"hoangvietanh.near": true,
+				"psalm.near": true,
+				"primaveralina.near": true,
+				"cameron_banyan.near": true,
+				"clippy.near": true,
+				"devbose.near": true,
+				"joep.near": true,
+				"yourdad.near": true,
+				"sarahkornfeld.near": true,
+				"yuensid.near": true,
+				"zeitwarp.near": true,
+				"crans.near": true,
+				"bjirken.near": true,
+				"avicado.near": true,
+				"meteor-wallet.near": true,
+				"wuipod.near": true,
+				"ogruss.near": true,
+				"james.near": true,
+				"ndcplug.near": true,
+				"krikkraktrak.near": true,
+				"og-sbt.sputnik-dao.near": true,
+				"deepspace9.near": true,
+				"nearnoborders.near": true,
+				"xuguangxia.near": true,
+				"nearweek.near": true,
+				"web3plug.near": true,
+				"orangejoe.near": true,
+				"proofofvibes.near": true,
+				"zennie.near": true,
+				"liight.near": true,
+				"fgex.near": true,
+				"0_o.starpause.near": true,
+				"duocelot.near": true,
+				"plugrel.near": true
+			}
+		}
+	},
+	"butola_ravi.near": {
+		"graph": {
+			"follow": {
+				"aurora_india.near": true,
+				"nearmedia.near": true
+			}
+		}
+	},
+	"soleco.near": {
+		"graph": {
+			"follow": {
+				"meteor-wallet.near": true
+			}
+		}
+	},
+	"a92d2106fd31a2d52501953961b1639745434ee343fb6303e4d0195b501b75ad": {
+		"graph": {
+			"follow": {
+				"lewidenmann.near": true,
+				"calebjacob.near": true,
+				"oztanmain.near": true,
+				"near": true
+			}
+		}
+	},
+	"dmitriy_sheleg.near": {
+		"graph": {
+			"follow": {
+				"khorolets.near": true,
+				"michaelpeter.near": true,
+				"frol.near": true,
+				"miraclx.near": true,
+				"reefoh.near": true,
+				"rtrpkp.near": true,
+				"calebjacob.near": true,
+				"sonnet.near": true
+			}
+		}
+	},
+	"f43da983d78f3289720db92740e0bc254330a323ede28e54e21269f57a1b3898": {
+		"graph": {
+			"follow": {
+				"corwin.near": true,
+				"julie.near": true,
+				"root.near": true,
+				"sonke.near": true
+			}
+		}
+	},
+	"theori.near": {
+		"graph": {
+			"follow": {
+				"nearmax.near": true,
+				"root.near": true,
+				"frol.near": true,
+				"mm-near.near": true,
+				"devgovgigs.near": true,
+				"jakmeier.near": true,
+				"neardevgov.near": true,
+				"near": true,
+				"pagodaplatform.near": true,
+				"zpoken.near": true,
+				"root.akaia.near": true,
+				"thomasguntenaar.near": true
+			}
+		}
+	},
+	"gmilescu.near": {
+		"graph": {
+			"follow": {
+				"jakmeier.near": true,
+				"mr27.near": true,
+				"near": true,
+				"pagodaplatform.near": true
+			}
+		}
+	},
+	"create.near": {
+		"graph": {
+			"follow": {
+				"atrox1382.near": true,
+				"0_o.starpause.near": true,
+				"alejandro.near": true,
+				"root.near": true,
+				"mob.near": true,
+				"zavodil.near": true,
+				"rustyguild.near": true,
+				"blaze.near": true,
+				"self.social.near": true,
+				"vlad.near": true,
+				"marieke.near": true,
+				"vadim.near": true,
+				"nearmax.near": true,
+				"aliaksandrh.near": true,
+				"partners.learnclub.near": true,
+				"whendacha.near": true,
+				"keyokey.near": true,
+				"cronus.near": true,
+				"duocelot.near": true,
+				"mattlock.near": true,
+				"mike.near": true,
+				"infinity.near": true,
+				"erik.near": true,
+				"joshua.near": true,
+				"readylayerone.near": true,
+				"davidmo.near": true,
+				"sonnet.near": true,
+				"nate.near": true,
+				"cavenaghi.near": true,
+				"nearpavel.near": true,
+				"johanga108.near": true,
+				"nallin.near": true,
+				"frol.near": true,
+				"patrick.near": true,
+				"rahulgoel.near": true,
+				"riqi.near": true,
+				"petersalomonsen.near": true,
+				"rimberjack.near": true,
+				"irfi.near": true,
+				"tolmindev.near": true,
+				"haenko.near": true,
+				"dgorton.near": true,
+				"cuongdcdev.near": true,
+				"hackerhouse.near": true,
+				"vandal.near": true,
+				"chatme.near": true,
+				"urbanite.near": true,
+				"vself.near": true,
+				"jeffsatori.near": true,
+				"luluca_l.near": true,
+				"miraclx.near": true,
+				"max_p.near": true,
+				"jake.near": true,
+				"rtrpkp.near": true,
+				"toolipse.near": true,
+				"rektdegen.near": true,
+				"microchipgnu.near": true,
+				"odins_eyehole.near": true,
+				"c_v_d.near": true,
+				"denysk.near": true,
+				"serhii.near": true,
+				"web3hedge.near": true,
+				"sarifirfir.near": true,
+				"shrm.near": true,
+				"harveys.near": true,
+				"bluntdao.near": true,
+				"jlw.near": true,
+				"luacan.near": true,
+				"corwin.near": true,
+				"kriptoraptor.near": true,
+				"tiffany.near": true,
+				"chefsale.near": true,
+				"gov.near": true,
+				"julie.near": true,
+				"dorgon108.near": true,
+				"khorolets.near": true,
+				"austinabell.near": true,
+				"logunov.near": true,
+				"tigowa.near": true,
+				"aurobot99.near": true,
+				"devgovgigs.near": true,
+				"aurobotsrollout.near": true,
+				"jass.near": true,
+				"goldich.near": true,
+				"kasodon.near": true,
+				"rebecca.near": true,
+				"devochka.near": true,
+				"naomi_is.near": true,
+				"jquant.near": true,
+				"theori.near": true,
+				"chadoh.near": true,
+				"lsheiba.near": true,
+				"olezba.near": true,
+				"hoangvietduc.near": true,
+				"jarednotjerry.near": true,
+				"calcamonia.near": true,
+				"humanman.near": true,
+				"alexanderjj.near": true,
+				"nakameowdough.near": true,
+				"petarvujovic.near": true,
+				"baseddeeegen.near": true,
+				"kemo.near": true,
+				"uhthred.near": true,
+				"sahilmassey.near": true,
+				"itsmarcus.near": true,
+				"osc.near": true,
+				"orangejoe.near": true,
+				"meta_irony.near": true,
+				"mally.near": true,
+				"chloe.near": true,
+				"psalm.near": true,
+				"cryptogarik.near": true,
+				"kpr.near": true,
+				"noak.near": true,
+				"nearex.near": true,
+				"crans.near": true,
+				"jen.near": true,
+				"daorecords.near": true,
+				"minz.near": true,
+				"marcelo.near": true,
+				"sanketn81.near": true,
+				"ilerik.near": true,
+				"wilsatori.near": true,
+				"ozymandius.near": true,
+				"nearweek-news-contribution.sputnik-dao.near": true,
+				"kenjon.near": true,
+				"nearindiahub.near": true,
+				"example.near": true,
+				"web4society.near": true,
+				"borderlesscommunity.near": true,
+				"root.akaia.near": true
+			}
+		}
+	},
+	"saketh.near": {
+		"graph": {
+			"follow": {
+				"mob.near": true,
+				"zavodil.near": true,
+				"mr27.near": true
+			}
+		}
+	},
+	"dm23.near": {
+		"graph": {
+			"follow": {
+				"partners.learnclub.near": true
+			}
+		}
+	},
+	"dilmah21.near": {
+		"graph": {
+			"follow": {
+				"partners.learnclub.near": true
+			}
+		}
+	},
+	"sharry_gold.near": {
+		"graph": {
+			"follow": {
+				"miraclx.near": true
+			}
+		}
+	},
+	"reefoh.near": {
+		"graph": {
+			"follow": {
+				"erik.near": true,
+				"dmitriy_sheleg.near": true,
+				"corwin.near": true,
+				"lewidenmann.near": true,
+				"nallin.near": true,
+				"jake.near": true,
+				"0e867226bd2e656f5680d33bc767551c6f4892028120ad70999fb9062983673d": true,
+				"rtrpkp.near": true,
+				"tiffany.near": true,
+				"oztanmain.near": true,
+				"rapidlawn.near": true,
+				"charleslavon.near": true,
+				"0_o.starpause.near": true
+			}
+		}
+	},
+	"0e867226bd2e656f5680d33bc767551c6f4892028120ad70999fb9062983673d": {
+		"graph": {
+			"follow": {
+				"c_v_d.near": true,
+				"trechriron.near": true,
+				"miraclx.near": true,
+				"reefoh.near": true,
+				"wolfberrie.near": true,
+				"minz.near": true,
+				"oztanmain.near": true,
+				"calebjacob.near": true,
+				"nallin.near": true,
+				"dmitriy_sheleg.near": true,
+				"corwin.near": true,
+				"lewidenmann.near": true,
+				"jlw.near": true,
+				"julie.near": true,
+				"sarifirfir.near": true,
+				"mob.near": true,
+				"nearpavel.near": true,
+				"zavodil.near": true,
+				"joshua.near": true,
+				"root.near": true,
+				"chaotictempest.near": true,
+				"sonnet.near": true,
+				"roshaan.near": true,
+				"mattlock.near": true,
+				"serhii.near": true,
+				"patrick.near": true,
+				"woben.near": true,
+				"dgorton.near": true,
+				"sally0.near": true,
+				"f43da983d78f3289720db92740e0bc254330a323ede28e54e21269f57a1b3898": true,
+				"peechz.near": true
+			}
+		}
+	},
+	"rubycop.near": {
+		"graph": {
+			"follow": {
+				"zavodil.near": true,
+				"root.near": true,
+				"self.social.near": true,
+				"vlad.near": true,
+				"vadim.near": true,
+				"haenko.near": true,
+				"vlodkow.near": true,
+				"jjyuan.near": true,
+				"aliaksandrh.near": true,
+				"zomland.near": true,
+				"cronus.near": true,
+				"mob.near": true,
+				"mintbase.near": true,
+				"alejandro.near": true,
+				"mattlock.near": true,
+				"infinity.near": true,
+				"toolipse.near": true,
+				"svetik.near": true,
+				"irfi.near": true,
+				"mason-club.near": true,
+				"neardevgov.near": true,
+				"chloe.near": true,
+				"blaze.near": true,
+				"jlw.near": true
+			}
+		}
+	},
+	"petarvujovic.near": {
+		"graph": {
+			"follow": {
+				"flmel.near": true,
+				"kasodon.near": true,
+				"webuidl.near": true,
+				"create.near": true,
+				"blaze.near": true,
+				"bbdb07e5bbdee0bd96df4b2eb011be923ec5af14e58d867a95b3ab61b87c19e1": true,
+				"bluesquid.near": true,
+				"sonke.near": true,
+				"mrsmomand.near": true,
+				"devs.near": true,
+				"samwangnf.near": true,
+				"hatchet.near": true,
+				"minorityprogrammers.near": true
+			}
+		}
+	},
+	"webuidl.near": {
+		"graph": {
+			"follow": {
+				"blaze.near": true,
+				"sahilmassey.near": true,
+				"vlad.near": true,
+				"vadim.near": true,
+				"aliaksandrh.near": true,
+				"keyokey.near": true,
+				"root.near": true,
+				"mob.near": true,
+				"zavodil.near": true,
+				"self.social.near": true,
+				"0_o.starpause.near": true,
+				"marieke.near": true,
+				"alejandro.near": true,
+				"nearmax.near": true,
+				"rustyguild.near": true,
+				"whendacha.near": true,
+				"cronus.near": true,
+				"mattlock.near": true,
+				"infinity.near": true,
+				"mike.near": true,
+				"erik.near": true,
+				"davidmo.near": true,
+				"frol.near": true,
+				"rimberjack.near": true,
+				"riqi.near": true,
+				"jlw.near": true,
+				"jake.near": true,
+				"denysk.near": true,
+				"nate.near": true,
+				"jen.near": true,
+				"mally.near": true,
+				"neversettleinterstellar.near": true,
+				"petarvujovic.near": true
+			}
+		}
+	},
+	"tiffany.near": {
+		"graph": {
+			"follow": {
+				"jlw.near": true,
+				"michaelpeter.near": true,
+				"woben.near": true,
+				"root.near": true,
+				"roshaan.near": true,
+				"reefoh.near": true,
+				"nearpavel.near": true,
+				"0_o.starpause.near": true,
+				"mob.near": true,
+				"nallin.near": true,
+				"julie.near": true,
+				"c_v_d.near": true,
+				"frol.near": true,
+				"charleslavon.near": true,
+				"chaotictempest.near": true,
+				"patrick.near": true,
+				"aliaksandrh.near": true,
+				"lewidenmann.near": true,
+				"sarifirfir.near": true,
+				"keyokey.near": true,
+				"eduohe.near": true,
+				"khorolets.near": true,
+				"pagoat.near": true,
+				"jeffgold.near": true,
+				"nycdao.near": true,
+				"samwangnf.near": true,
+				"robbielim.near": true,
+				"2e77cb43eec84493cf57d93005f9b834ac93d787e41667f8c37222024e412656": true,
+				"scopalaffairs.near": true
+			}
+		}
+	},
+	"sahilmassey.near": {
+		"graph": {
+			"follow": {
+				"create.near": true,
+				"blaze.near": true,
+				"atrox1382.near": true,
+				"0_o.starpause.near": true,
+				"williamxx.near": true,
+				"webuidl.near": true,
+				"creativesdao.near": true,
+				"rebecca.near": true,
+				"alexanderjj.near": true,
+				"infinity.near": true,
+				"marieke.near": true,
+				"root.near": true,
+				"nate.near": true,
+				"vandal.near": true,
+				"crans.near": true,
+				"daorecords.near": true,
+				"davidmo.near": true,
+				"whendacha.near": true,
+				"kcpesce.near": true,
+				"gov.near": true,
+				"kriptoraptor.near": true,
+				"kazanderdad.near": true,
+				"abbakaka.near": true,
+				"nearhorizon.near": true,
+				"ogruss.near": true,
+				"creativesdao.sputnik-dao.near": true,
+				"chloe.near": true,
+				"klarakopi.near": true,
+				"pbborges.near": true,
+				"frado.near": true,
+				"cryptocoatl.near": true,
+				"ndcplug.near": true,
+				"alejandro.near": true,
+				"duocelot.near": true,
+				"proofofvibes.near": true,
+				"derymars.near": true,
+				"devbose.near": true,
+				"mintbase.near": true,
+				"ndctrust.near": true,
+				"microchipgnu.near": true,
+				"primaveralina.near": true,
+				"cacossio.near": true,
+				"yourdad.near": true,
+				"krikkraktrak.near": true,
+				"nearmultiverse.near": true,
+				"odins_eyehole.near": true,
+				"zahrah.near": true,
+				"fiftycent.near": true,
+				"jlw.near": true,
+				"zeitwarp.near": true,
+				"neardigitalcollective.near": true,
+				"rahulgoel.near": true,
+				"nearbrasil.near": true,
+				"sammiee1.near": true
+			}
+		}
+	},
+	"pierre-dev.near": {
+		"graph": {
+			"follow": {
+				"kenjon.near": true,
+				"as2.near": true,
+				"root.near": true,
+				"marieke.near": true,
+				"kriptoraptor.near": true,
+				"denysk.near": true,
+				"evrard-nil.near": true,
+				"hatchet.near": true,
+				"cameron_banyan.near": true,
+				"patrick.near": true,
+				"near": true,
+				"lucasd.near": true,
+				"readylayerone.near": true,
+				"gusthecruel.near": true,
+				"tedlasso.near": true,
+				"pagodaplatform.near": true,
+				"philippsuarez.near": true,
+				"3283.near": true,
+				"davidmo.near": true,
+				"dan_web3.near": true,
+				"gabd.near": true,
+				"miraclx.near": true,
+				"nearmultiverse.near": true,
+				"calimero.near": true
+			}
+		}
+	},
+	"joogness.near": {
+		"graph": {
+			"follow": {
+				"mr27.near": true,
+				"near": true,
+				"kianavi.near": true,
+				"mattlock.near": true,
+				"jake.near": true,
+				"soizj.near": true,
+				"davidmo.near": true,
+				"chefsale.near": true,
+				"cudam321.near": true,
+				"orangejoe.near": true,
+				"luacan.near": true,
+				"root.near": true,
+				"zavodil.near": true,
+				"blaze.near": true,
+				"self.social.near": true,
+				"marieke.near": true,
+				"aliaksandrh.near": true,
+				"vadim.near": true,
+				"nearmax.near": true,
+				"cronus.near": true,
+				"keyokey.near": true,
+				"mike.near": true,
+				"partners.learnclub.near": true,
+				"erik.near": true,
+				"joshua.near": true,
+				"infinity.near": true,
+				"readylayerone.near": true,
+				"nate.near": true,
+				"rimberjack.near": true,
+				"alejandro.near": true,
+				"mob.near": true,
+				"hackerhouse.near": true,
+				"cameron_banyan.near": true,
+				"davidweinstein.near": true,
+				"cacossio.near": true,
+				"mally.near": true,
+				"socialbenz.near": true,
+				"kdot.near": true,
+				"neardigitalcollective.near": true
+			}
+		}
+	},
+	"humoungus_donkey.near": {
+		"graph": {
+			"follow": {
+				"calebjacob.near": true,
+				"oztanmain.near": true,
+				"chaotictempest.near": true,
+				"lewidenmann.near": true,
+				"a92d2106fd31a2d52501953961b1639745434ee343fb6303e4d0195b501b75ad": true,
+				"michaelpeter.near": true
+			}
+		}
+	},
+	"osmann.near": {
+		"graph": {
+			"follow": {
+				"miraclx.near": true,
+				"badbishkhadee.near": true,
+				"logunov.near": true,
+				"roshaan.near": true
+			}
+		}
+	},
+	"lilcrow.near": {
+		"graph": {
+			"follow": {
+				"0_o.starpause.near": true
+			}
+		}
+	},
+	"eliaszinas.near": {
+		"graph": {
+			"follow": {
+				"rustyguild.near": true,
+				"auroraecosystemnews.near": true,
+				"nearartisans.near": true,
+				"0_o.starpause.near": true,
+				"blaqkstereo.near": true,
+				"tne_society.near": true,
+				"nearmedia.near": true,
+				"blaze.near": true,
+				"duocelot.near": true,
+				"joergphotos.near": true
+			}
+		}
+	},
+	"perpul.near": {
+		"graph": {
+			"follow": {
+				"bo.near": true,
+				"chaotictempest.near": true,
+				"serhii.near": true
+			}
+		}
+	},
+	"chadoh.near": {
+		"graph": {
+			"follow": {
+				"mob.near": true
+			}
+		}
+	},
+	"rebecca.near": {
+		"graph": {
+			"follow": {
+				"gov.near": true,
+				"atrox1382.near": true,
+				"blaze.near": true,
+				"create.near": true,
+				"kriptoraptor.near": true,
+				"undefined": true,
+				"infinity.near": true,
+				"chloe.near": true,
+				"sahilmassey.near": true,
+				"davidmo.near": true,
+				"microchipgnu.near": true,
+				"kcpesce.near": true,
+				"toolipse.near": true,
+				"klarakopiv2.near": true,
+				"bianca.near": true,
+				"alejandro.near": true,
+				"hackerhouse.near": true,
+				"0_o.starpause.near": true,
+				"muticollective.near": true,
+				"jcb.near": true,
+				"hub.near": true
+			}
+		}
+	},
+	"maily_gwen_social.near": {
+		"graph": {
+			"follow": {
+				"serhii.near": true
+			}
+		}
+	},
+	"saveplanet.near": {
+		"graph": {
+			"follow": {
+				"neversettleinterstellar.near": true,
+				"onboarder.near": true
+			}
+		}
+	},
+	"chefsale.near": {
+		"graph": {
+			"follow": {
+				"mob.near": true,
+				"aliaksandrh.near": true,
+				"root.near": true,
+				"vlad.near": true,
+				"mike.near": true,
+				"mm-near.near": true,
+				"deniscalimero.near": true,
+				"frol.near": true,
+				"serhii.near": true,
+				"marcelo.near": true,
+				"wuipod.near": true,
+				"miraclx.near": true,
+				"xabilosada.near": true,
+				"austinabell.near": true,
+				"zavodil.near": true,
+				"blaze.near": true,
+				"mattlock.near": true,
+				"kirikiri.near": true,
+				"khorolets.near": true,
+				"aurobot99.near": true,
+				"ea501931492e18f4d00b469517ab08450a7949bc9703ff9837ab8756988ffb39": true,
+				"devochka.near": true,
+				"sonnet.near": true,
+				"joshua.near": true,
+				"mintbase.near": true,
+				"davidmo.near": true,
+				"alejandro.near": true,
+				"ftdgoodluck.near": true,
+				"woben.near": true,
+				"aryonchain.near": true,
+				"calimero.near": true,
+				"dapppunk.near": true,
+				"antonpaisov.near": true,
+				"medicz.near": true
+			}
+		}
+	},
+	"d4407db48a9cd31bc8b4393c2953f124ec28c5b2bf3cf8b537702021739add24": {
+		"graph": {
+			"follow": {
+				"johanga108.near": true,
+				"maily_gwen_social.near": true
+			}
+		}
+	},
+	"son-goku.near": {
+		"graph": {
+			"follow": {
+				"root.near": true
+			}
+		}
+	},
+	"bond09.near": {
+		"graph": {
+			"follow": {
+				"cronus.near": true,
+				"nearnativenews.near": true
+			}
+		}
+	},
+	"kemo.near": {
+		"graph": {
+			"follow": {
+				"gov.near": true,
+				"blaze.near": true,
+				"rahulgoel.near": true,
+				"sonke.near": true,
+				"create.near": true,
+				"odys.near": true,
+				"kcpesce.near": true,
+				"dach.near": true,
+				"mintickt.near": true,
+				"root.near": true,
+				"infinity.near": true,
+				"cuongdcdev.near": true,
+				"microchipgnu.near": true,
+				"wizzow.near": true,
+				"kriptoraptor.near": true,
+				"fritzwagner.near": true,
+				"guille.near": true,
+				"cameron_banyan.near": true,
+				"chloe.near": true,
+				"alejandro.near": true,
+				"harveys.near": true,
+				"14d8bad7409abe5e77e9c56b51f86d9ae844f127734546a88d56419436f69237": true,
+				"nate.near": true
+			}
+		}
+	},
+	"meta_irony.near": {
+		"graph": {
+			"follow": {
+				"vself.near": true,
+				"jeffsatori.near": true,
+				"ilerik.near": true,
+				"create.near": true,
+				"sahista4341f.near": true,
+				"luluca_l.near": true,
+				"johanga108.near": true,
+				"zavodil.near": true,
+				"root.near": true,
+				"self.social.near": true,
+				"blaze.near": true,
+				"marieke.near": true,
+				"mob.near": true,
+				"vlad.near": true,
+				"aliaksandrh.near": true,
+				"vadim.near": true,
+				"infinity.near": true,
+				"whendacha.near": true,
+				"nearmax.near": true,
+				"duocelot.near": true,
+				"davidmo.near": true,
+				"mattlock.near": true,
+				"cronus.near": true,
+				"rimberjack.near": true,
+				"haenko.near": true,
+				"rahulgoel.near": true,
+				"cuongdcdev.near": true,
+				"jass.near": true,
+				"baseddeeegen.near": true,
+				"alejandro.near": true,
+				"readylayerone.near": true,
+				"vlodkow.near": true
+			}
+		}
+	},
+	"mattdp.near": {
+		"graph": {
+			"follow": {
+				"simonemelanie.near": true
+			}
+		}
+	},
+	"vow_owner_123.near": {
+		"graph": {
+			"follow": {
+				"aliaksandrh.near": true,
+				"calcamonia.near": true
+			}
+		}
+	},
+	"0xkt.near": {
+		"graph": {
+			"follow": {
+				"flmel.near": true,
+				"miraclx.near": true
+			}
+		}
+	},
+	"aseev.near": {
+		"graph": {
+			"follow": {
+				"vadim.near": true
+			}
+		}
+	},
+	"supersaiyape.near": {
+		"graph": {
+			"follow": {
+				"luacan.near": true
+			}
+		}
+	},
+	"deniscalimero.near": {
+		"graph": {
+			"follow": {
+				"xabilosada.near": true,
+				"chefsale.near": true
+			}
+		}
+	},
+	"vladysssluv.near": {
+		"graph": {
+			"follow": {
+				"zavodil.near": true
+			}
+		}
+	},
+	"nonothenono.near": {
+		"graph": {
+			"follow": {
+				"luacan.near": true,
+				"genxartist.near": true,
+				"nekosocial.near": true,
+				"alejandro.near": true,
+				"coineasydao.near": true,
+				"yashank.near": true,
+				"devbose.near": true,
+				"meteor-wallet.near": true,
+				"blaze.near": true,
+				"proofofvibes.near": true
+			}
+		}
+	},
+	"kingacrypto.near": {
+		"graph": {
+			"follow": {
+				"calcamonia.near": true,
+				"escobarindo.near": true,
+				"billybones.near": true,
+				"supah.near": true,
+				"0_o.starpause.near": true,
+				"readylayerone.near": true,
+				"sharddog.near": true,
+				"jarednotjerry.near": true,
+				"orangejoe.near": true
+			}
+		}
+	},
+	"rant.near": {
+		"graph": {
+			"follow": {
+				"zavodil.near": true,
+				"cronus.near": true,
+				"salikc9.near": true
+			}
+		}
+	},
+	"natasham.near": {
+		"graph": {
+			"follow": {
+				"luacan.near": true,
+				"hackerhouse.near": true,
+				"jjyuan.near": true,
+				"minorityprogrammers.near": true
+			}
+		}
+	},
+	"odys.near": {
+		"graph": {
+			"follow": {
+				"miraclx.near": true,
+				"kemo.near": true,
+				"mattdp.near": true,
+				"mirnft.near": true,
+				"vladysssluv.near": true,
+				"seatlab.near": true,
+				"badbishkhadee.near": true,
+				"bbdb07e5bbdee0bd96df4b2eb011be923ec5af14e58d867a95b3ab61b87c19e1": true,
+				"nonothenono.near": true
+			}
+		}
+	},
+	"loonynvi.near": {
+		"graph": {
+			"follow": {
+				"odys.near": true,
+				"nearpavel.near": true,
+				"blaze.near": true,
+				"sonke.near": true,
+				"luacan.near": true,
+				"muticollective.near": true,
+				"billybones.near": true,
+				"rtrpkp.near": true,
+				"silly_psyop.near": true,
+				"nearmax.near": true
+			}
+		}
+	},
+	"badbishkhadee.near": {
+		"graph": {
+			"follow": {
+				"miraclx.near": true,
+				"osmann.near": true,
+				"logunov.near": true
+			}
+		}
+	},
+	"piratek.near": {
+		"graph": {
+			"follow": {
+				"luacan.near": true,
+				"ilerik.near": true,
+				"calcamonia.near": true,
+				"zavodil.near": true,
+				"bancambios.near": true,
+				"bbdb07e5bbdee0bd96df4b2eb011be923ec5af14e58d867a95b3ab61b87c19e1": true,
+				"meta-pool-official.near": true,
+				"goatboy360.near": true,
+				"readylayerone.near": true
+			}
+		}
+	},
+	"00711.near": {
+		"graph": {
+			"follow": {
+				"devgovgigs.near": true
+			}
+		}
+	},
+	"sebga.near": {
+		"graph": {
+			"follow": {
+				"luacan.near": true,
+				"root.near": true,
+				"self.social.near": true,
+				"0_o.starpause.near": true,
+				"aliaksandrh.near": true,
+				"gov.near": true,
+				"vandal.near": true,
+				"kriptoraptor.near": true,
+				"microchipgnu.near": true,
+				"tomasmika.near": true,
+				"davletuner.near": true,
+				"calcamonia.near": true,
+				"bancambios.near": true,
+				"bluntdao.near": true,
+				"osc.near": true,
+				"big_head.near": true,
+				"oddio3.near": true,
+				"near": true,
+				"crans.near": true,
+				"abstractrabbit.near": true,
+				"hypefairy.near": true,
+				"mr27.near": true,
+				"pagodaplatform.near": true,
+				"2a646138f3b713b2c78f184095f7560338cc12268b46e19cd7d2ca41a5c8a4a0": true,
+				"artbymiot.near": true
+			}
+		}
+	},
+	"wilsatori.near": {
+		"graph": {
+			"follow": {
+				"simonemelanie.near": true,
+				"erik.near": true,
+				"mob.near": true,
+				"root.near": true,
+				"jeffsatori.near": true,
+				"djwine_official.near": true,
+				"rtrpkp.near": true,
+				"wendersonpires.near": true,
+				"badbishkhadee.near": true
+			}
+		}
+	},
+	"7171315bf5e106ddaa8f0e040d9fd0b814d90e1c433a31ecc3c8a1e9bf83fd7f": {
+		"graph": {
+			"follow": {
+				"mob.near": true,
+				"root.near": true,
+				"minz.near": true,
+				"vlad.near": true,
+				"jakmeier.near": true
+			}
+		}
+	},
+	"silly_psyop.near": {
+		"graph": {
+			"follow": {
+				"woben.near": true,
+				"frol.near": true,
+				"sarifirfir.near": true,
+				"julie.near": true,
+				"gov.near": true,
+				"c_v_d.near": true,
+				"logunov.near": true,
+				"nearmax.near": true,
+				"self.social.near": true,
+				"sonnet.near": true,
+				"marcelo.near": true,
+				"minz.near": true,
+				"samwangnf.near": true,
+				"mm-near.near": true,
+				"root.near": true,
+				"loonynvi.near": true,
+				"near": true,
+				"pagodaplatform.near": true,
+				"xuguangxia.near": true
+			}
+		}
+	},
+	"azymohliad.near": {
+		"graph": {
+			"follow": {
+				"serhii.near": true
+			}
+		}
+	},
+	"ledum_ix.near": {
+		"graph": {
+			"follow": {
+				"genadrop.near": true,
+				"hackerhouse.near": true
+			}
+		}
+	},
+	"tomasmika.near": {
+		"graph": {
+			"follow": {
+				"sebga.near": true
+			}
+		}
+	},
+	"xabilosada.near": {
+		"graph": {
+			"follow": {
+				"chefsale.near": true,
+				"deniscalimero.near": true,
+				"root.near": true,
+				"calimero.near": true,
+				"marcelo.near": true
+			}
+		}
+	},
+	"5f366167901d74e6cadd96a818604872a1e7b37b49b173672c1a40e403a91454": {
+		"graph": {
+			"follow": {
+				"triple41.near": true
+			}
+		}
+	},
+	"devochka.near": {
+		"graph": {
+			"follow": {
+				"johanga108.near": true,
+				"chefsale.near": true,
+				"aurobot99.near": true,
+				"aurobotsrollout.near": true,
+				"create.near": true,
+				"mattlock.near": true,
+				"cronus.near": true,
+				"auroraecosystemnews.near": true,
+				"tedlasso.near": true
+			}
+		}
+	},
+	"nakameowdough.near": {
+		"graph": {
+			"follow": {
+				"simonemelanie.near": true,
+				"chro.near": true
+			}
+		}
+	},
+	"6a2b8b406aae760d0b140a89955e0a84ff2883de2c33987984f2e81109dd21a9": {
+		"graph": {
+			"follow": {
+				"near": true
+			}
+		}
+	},
+	"bagadefente.near": {
+		"graph": {
+			"follow": {
+				"auroraecosystemnews.near": true,
+				"humansof.near": true,
+				"nearbrasil.near": true
+			}
+		}
+	},
+	"kailani.near": {
+		"graph": {
+			"follow": {
+				"sfdao.near": true
+			}
+		}
+	},
+	"kepka.near": {
+		"graph": {
+			"follow": {
+				"e157bfecfff11160f4cd8410a9fbbcd5f6aa2aa5bb9b0ca2b826779970dc8296": true,
+				"enleap-test.near": true
+			}
+		}
+	},
+	"e157bfecfff11160f4cd8410a9fbbcd5f6aa2aa5bb9b0ca2b826779970dc8296": {
+		"graph": {
+			"follow": {
+				"tomasmika.near": true,
+				"meteor-wallet.near": true,
+				"root.near": true,
+				"socialbenz.near": true,
+				"aescobar.near": true,
+				"kepka.near": true,
+				"nekosocial.near": true,
+				"alejandro.near": true,
+				"nearmultiverse.near": true,
+				"dleer.near": true,
+				"bjirken.near": true,
+				"billybones.near": true,
+				"meta-pool-official.near": true,
+				"soosweb3.near": true,
+				"yuensid.near": true
+			}
+		}
+	},
+	"ea501931492e18f4d00b469517ab08450a7949bc9703ff9837ab8756988ffb39": {
+		"graph": {
+			"follow": {
+				"chefsale.near": true,
+				"kirikiri.near": true,
+				"mooob.near": true,
+				"root.near": true,
+				"self.social.near": true
+			}
+		}
+	},
+	"do0k13.near": {
+		"graph": {
+			"follow": {
+				"cryptomuse01.near": true,
+				"perennis.near": true,
+				"psalm.near": true,
+				"business-development.near": true,
+				"hub.near": true,
+				"abbakaka.near": true,
+				"proximity_social.near": true,
+				"calimero.near": true,
+				"nearefi.near": true,
+				"blaze.near": true,
+				"nearspanish.near": true,
+				"owa-prizes-sender.near": true,
+				"infrastructureco.near": true,
+				"saveplanet.near": true,
+				"partners.learnclub.near": true,
+				"mintbase.near": true,
+				"mariozito.near": true,
+				"ndctrust.near": true,
+				"marieke.near": true,
+				"near": true,
+				"nearhorizon.near": true,
+				"dev-support.near": true,
+				"neartalent.near": true,
+				"linearprotocol.near": true,
+				"near_mobile.near": true,
+				"bancambios.near": true,
+				"qstn.near": true,
+				"academy.near": true,
+				"humansof.near": true,
+				"auroraecosystemnews.near": true,
+				"nfcommunity.near": true,
+				"nearstudio.near": true,
+				"builtonnear.near": true,
+				"keypom.near": true,
+				"izcc.near": true,
+				"yairnava.near": true,
+				"meta-pool-official.near": true,
+				"openwebacademy.near": true,
+				"alan777.near": true,
+				"blockchain-success.near": true,
+				"devgovgigs.near": true,
+				"promo.fewandfar.near": true,
+				"nearweek-news-contribution.sputnik-dao.near": true,
+				"hackerhouse.near": true,
+				"manzanal.near": true,
+				"root.near": true,
+				"nearmultiverse.near": true,
+				"information-security.near": true,
+				"bosweek.near": true,
+				"nearweek.near": true,
+				"auroralatam.near": true,
+				"mynearwallet-ns.near": true,
+				"nearhacks.near": true,
+				"beetogether.near": true,
+				"neardigitalcollective.near": true,
+				"geehives.near": true,
+				"rc-dao.near": true,
+				"osc.near": true,
+				"fritzwagner.near": true,
+				"anmatig.near": true,
+				"14d8bad7409abe5e77e9c56b51f86d9ae844f127734546a88d56419436f69237": true,
+				"coineasydao.near": true,
+				"escobarindo.near": true,
+				"kemo.near": true,
+				"alejandro.near": true,
+				"rc-dao.sputnik-dao.near": true,
+				"apitchdeck.near": true,
+				"ogruss.near": true,
+				"aurorabrazilguild.near": true,
+				"banyanq3.near": true,
+				"duocelot.near": true,
+				"humans-of-near.near": true,
+				"aurority.near": true
+			}
+		}
+	},
+	"oddio3.near": {
+		"graph": {
+			"follow": {
+				"vandal.near": true,
+				"daorecords.near": true,
+				"sebga.near": true,
+				"williamxx.near": true,
+				"nearweek-news-contribution.sputnik-dao.near": true,
+				"crans.near": true,
+				"readylayerone.near": true,
+				"hypefairy.near": true,
+				"auroraecosystemnews.near": true,
+				"meta-pool-official.near": true,
+				"pagodaplatform.near": true,
+				"mr27.near": true,
+				"meteor-wallet.near": true,
+				"microchipgnu.near": true,
+				"johanga108.near": true,
+				"geminirisingv2.near": true,
+				"manutegus.near": true,
+				"blua_discordia.near": true,
+				"inadaov2.near": true,
+				"hackerhouse.near": true,
+				"creativesdao.near": true,
+				"kcpesce.near": true,
+				"klarakopiv2.near": true,
+				"bianca.near": true,
+				"sleezymoss.near": true,
+				"0_o.starpause.near": true,
+				"neardigitalcollective.near": true,
+				"optr.near": true,
+				"0d8d0a961728f0fd8eb9513176a5c630edf59c4bde1c7e9315744f20336706e7": true,
+				"nearweekapp.near": true
+			}
+		}
+	},
+	"iamanansari.near": {
+		"graph": {
+			"follow": {
+				"rexux.near": true,
+				"roshangeek.near": true,
+				"izubair.near": true,
+				"johanga108.near": true,
+				"vrajesh.near": true,
+				"thenos.near": true,
+				"max_p.near": true,
+				"chloe.near": true,
+				"root.near": true,
+				"auroraecosystemnews.near": true,
+				"dk_51.near": true,
+				"rahulgoel.near": true,
+				"as2.near": true,
+				"aurora_india.near": true,
+				"whendacha.near": true,
+				"hunters_super_team.near": true,
+				"neardigitalcollective.near": true,
+				"og-sbt.sputnik-dao.near": true
+			}
+		}
+	},
+	"fffilimonov.near": {
+		"graph": {
+			"follow": {
+				"root.near": true,
+				"zavodil.near": true,
+				"mob.near": true,
+				"richmal.near": true,
+				"marieke.near": true
+			}
+		}
+	},
+	"gify88.near": {
+		"graph": {
+			"follow": {
+				"root.near": true,
+				"zavodil.near": true,
+				"self.social.near": true,
+				"vadim.near": true
+			}
+		}
+	},
+	"detectivemisha.near": {
+		"graph": {
+			"follow": {
+				"aliaksandrh.near": true
+			}
+		}
+	},
+	"ua4wea.near": {
+		"graph": {
+			"follow": {
+				"auroraecosystemnews.near": true
+			}
+		}
+	},
+	"andreasr.near": {
+		"graph": {
+			"follow": {
+				"lolson.near": true
+			}
+		}
+	},
+	"opshenry.near": {
+		"graph": {
+			"follow": {
+				"petersalomonsen.near": true,
+				"root.near": true,
+				"hackerhouse.near": true,
+				"scottie.near": true,
+				"nearweek-news-contribution.sputnik-dao.near": true,
+				"aliaksandrh.near": true,
+				"keyokey.near": true,
+				"bjirken.near": true,
+				"mob.near": true,
+				"near": true,
+				"robertyan.near": true,
+				"web3hedge.near": true
+			}
+		}
+	},
+	"itranscend.near": {
+		"graph": {
+			"follow": {
+				"miraclx.near": true
+			}
+		}
+	},
+	"tandethuong.near": {
+		"graph": {
+			"follow": {
+				"andreapn.near": true
+			}
+		}
+	},
+	"vanyog.near": {
+		"graph": {
+			"follow": {
+				"mob.near": true
+			}
+		}
+	},
+	"iam_prometheus.near": {
+		"graph": {
+			"follow": {
+				"mob.near": true,
+				"miraclx.near": true,
+				"minorityprogrammers.near": true
+			}
+		}
+	},
+	"bentien.near": {
+		"graph": {
+			"follow": {
+				"root.near": true
+			}
+		}
+	},
+	"elcid.near": {
+		"graph": {
+			"follow": {
+				"cronus.near": true
+			}
+		}
+	},
+	"enleap-test.near": {
+		"graph": {
+			"follow": {
+				"pebble.near": true
+			}
+		}
+	},
+	"vikash.near": {
+		"graph": {
+			"follow": {
+				"gov.near": true,
+				"govworkinggroup.near": true,
+				"neardigitalcollective.near": true,
+				"davletuner.near": true,
+				"alejandro.near": true,
+				"readylayerone.near": true,
+				"pagodaplatform.near": true,
+				"proximity_social.near": true,
+				"root.near": true,
+				"ogruss.near": true,
+				"ndcplug.near": true,
+				"nearweek.near": true,
+				"achildhoodhero.near": true,
+				"web3hedge.near": true,
+				"hackerhouse.near": true,
+				"rahulgoel.near": true,
+				"minorityprogrammers.near": true,
+				"chloe.near": true,
+				"orangejoe.near": true,
+				"0_o.starpause.near": true,
+				"yashank.near": true,
+				"fgex.near": true,
+				"meteor-wallet.near": true,
+				"escobarindo.near": true,
+				"kemo.near": true,
+				"fritzwagner.near": true,
+				"near-india.near": true
+			}
+		}
+	},
+	"kweek.near": {
+		"graph": {
+			"follow": {
+				"auroraecosystemnews.near": true,
+				"jumpdefisocial.near": true
+			}
+		}
+	},
+	"voreficna.near": {
+		"graph": {
+			"follow": {
+				"cronus.near": true,
+				"as2.near": true,
+				"zavodil.near": true,
+				"auroraecosystemnews.near": true,
+				"meta-pool-official.near": true,
+				"root.near": true,
+				"tolmindev.near": true,
+				"johanga108.near": true
+			}
+		}
+	},
+	"shefcoin.near": {
+		"graph": {
+			"follow": {
+				"nilox.near": true,
+				"cronus.near": true,
+				"cheddar.near": true
+			}
+		}
+	},
+	"nirmitkataria.near": {
+		"graph": {
+			"follow": {
+				"rahulgoel.near": true,
+				"auroraecosystemnews.near": true,
+				"near-dapps.near": true
+			}
+		}
+	},
+	"polyprogrammist.near": {
+		"graph": {
+			"follow": {
+				"logunov.near": true
+			}
+		}
+	},
+	"wolfwood.near": {
+		"graph": {
+			"follow": {
+				"anoakeye.near": true,
+				"osc.near": true,
+				"bjirken.near": true,
+				"beetogether.near": true,
+				"klarakopiv2.near": true,
+				"crans.near": true,
+				"chloe.near": true,
+				"hackerhouse.near": true
+			}
+		}
+	},
+	"stianforland.near": {
+		"graph": {
+			"follow": {
+				"petersalomonsen.near": true,
+				"fictionspawn.near": true,
+				"duocelot.near": true,
+				"mooob.near": true,
+				"cavenaghi.near": true,
+				"nearmax.near": true,
+				"yarotska.near": true,
+				"shailesh24.near": true,
+				"mob.near": true,
+				"simolhalk.near": true
+			}
+		}
+	},
+	"truths.near": {
+		"graph": {
+			"follow": {
+				"root.near": true,
+				"proximity_social.near": true
+			}
+		}
+	},
+	"darkpixel.near": {
+		"graph": {
+			"follow": {
+				"bozon.near": true
+			}
+		}
+	},
+	"gugu96.near": {
+		"graph": {
+			"follow": {
+				"opshenry.near": true,
+				"rtrpkp.near": true
+			}
+		}
+	},
+	"eugenewolf507.near": {
+		"graph": {
+			"follow": {
+				"vanyog.near": true,
+				"mob.near": true,
+				"testwiki.near": true,
+				"iamgalt.near": true,
+				"pembrocker.near": true,
+				"inc4social.near": true
+			}
+		}
+	},
+	"williamxx.near": {
+		"graph": {
+			"follow": {
+				"blaze.near": true,
+				"gov.near": true,
+				"alejandro.near": true,
+				"whendacha.near": true,
+				"crans.near": true,
+				"0_o.starpause.near": true,
+				"vandal.near": true,
+				"daorecords.near": true,
+				"bonepoliceofficial.near": true,
+				"muticollective.near": true,
+				"kriptoraptor.near": true,
+				"blckhntr.near": true,
+				"davidmo.near": true,
+				"harveys.near": true,
+				"root.near": true,
+				"chloe.near": true,
+				"cronus.near": true,
+				"bbdb07e5bbdee0bd96df4b2eb011be923ec5af14e58d867a95b3ab61b87c19e1": true,
+				"cuongdcdev.near": true,
+				"mintbase.near": true,
+				"readylayerone.near": true,
+				"sahilmassey.near": true,
+				"oddio3.near": true,
+				"duocelot.near": true,
+				"nearindiahub.near": true,
+				"cavenaghi.near": true,
+				"nate.near": true,
+				"cudam321.near": true,
+				"creativesdao.near": true,
+				"zavodil.near": true,
+				"kcpesce.near": true,
+				"near": true,
+				"meta-pool-official.near": true,
+				"maryrazel.near": true,
+				"svaradao.near": true,
+				"marieke.near": true,
+				"nearvietnamhub.near": true,
+				"partners.learnclub.near": true,
+				"fritzwagner.near": true,
+				"hack.near": true,
+				"mido4bs.near": true,
+				"infinity.near": true,
+				"mr27.near": true,
+				"near_insider.near": true,
+				"undefined": true,
+				"james.near": true,
+				"klarakopiv2.near": true,
+				"inadaov2.near": true,
+				"cwpuzzles.near": true,
+				"hypefairy.near": true,
+				"minorityprogrammers.near": true,
+				"jaganbb.near": true,
+				"onboarder.near": true,
+				"geminirisingv2.near": true,
+				"govworkinggroup.near": true,
+				"chiha9.near": true,
+				"inc4social.near": true,
+				"mob.near": true,
+				"creatives.sputnik-dao.near": true,
+				"creativesdao.sputnik-dao.near": true,
+				"yuensid.near": true,
+				"sarahkornfeld.near": true,
+				"nearweek-news-contribution.sputnik-dao.near": true,
+				"nfcommunity.near": true,
+				"efiz.near": true,
+				"blockchain-success.near": true,
+				"harshit.near": true,
+				"dach.near": true,
+				"dyndyn.near": true,
+				"aidenaidan.near": true,
+				"letruonghoan09.near": true,
+				"meowmeowcute.near": true,
+				"weneedyou.near": true,
+				"kazanderdad.near": true,
+				"pbborges.near": true,
+				"hackerhouse.near": true,
+				"banyanq2.near": true,
+				"og-sbt.sputnik-dao.near": true,
+				"yourdad.near": true,
+				"nearmultiverse.near": true,
+				"kemo.near": true,
+				"bennyblanco.near": true,
+				"frichard5.near": true,
+				"componentsgg.near": true,
+				"proofofvibes.near": true,
+				"ogruss.near": true,
+				"devs.near": true,
+				"klarakopi.near": true,
+				"rahulgoel.near": true,
+				"frado.near": true,
+				"ndcplug.near": true,
+				"daoashe.near": true,
+				"fgex.near": true,
+				"shreyas.near": true
+			}
+		}
+	},
+	"nearux.near": {
+		"graph": {
+			"follow": {
+				"ddengler.near": true,
+				"root.near": true,
+				"sonke.near": true,
+				"tolmindev.near": true,
+				"manzanal.near": true,
+				"nearhorizon.near": true,
+				"contribut3.near": true
+			}
+		}
+	},
+	"edz.near": {
+		"graph": {
+			"follow": {
+				"hellonepbot.near": true
+			}
+		}
+	},
+	"jeanneb.near": {
+		"graph": {
+			"follow": {
+				"marieke.near": true
+			}
+		}
+	},
+	"asilto.near": {
+		"graph": {
+			"follow": {
+				"kriptoraptor.near": true,
+				"auroraecosystemnews.near": true,
+				"cizi31.near": true,
+				"auroraonelove.near": true,
+				"aurora_nftclub.near": true,
+				"as2.near": true,
+				"auroraisneartr.near": true,
+				"nearinturkiye.near": true,
+				"nearprotocol-turkiye.sputnik-dao.near": true,
+				"dach.near": true,
+				"headstone.near": true,
+				"near-deutsch.near": true
+			}
+		}
+	},
+	"nulandani.near": {
+		"graph": {
+			"follow": {
+				"duocelot.near": true,
+				"bbdb07e5bbdee0bd96df4b2eb011be923ec5af14e58d867a95b3ab61b87c19e1": true,
+				"cavenaghi.near": true,
+				"meteor-wallet.near": true,
+				"elcafecartel.near": true,
+				"auroraecosystemnews.near": true,
+				"rynzaro.near": true,
+				"klaus.near": true,
+				"nakameowdough.near": true,
+				"demodayis.near": true,
+				"pembrocker.near": true,
+				"blog.rynzaro.near": true,
+				"p516entropy.near": true,
+				"ibohigboze.near": true,
+				"andreapn.near": true,
+				"chiha9.near": true,
+				"nearweek-news-contribution.sputnik-dao.near": true,
+				"devgovgigs.near": true,
+				"mr27.near": true
+			}
+		}
+	},
+	"auntielol.near": {
+		"graph": {
+			"follow": {
+				"zomland.near": true,
+				"rubycop.near": true
+			}
+		}
+	},
+	"james.near": {
+		"graph": {
+			"follow": {
+				"haenko.near": true,
+				"mob.near": true,
+				"keyokey.near": true,
+				"minz.near": true,
+				"gov.near": true,
+				"duocelot.near": true,
+				"nearweek-news-contribution.sputnik-dao.near": true,
+				"davidmo.near": true,
+				"readylayerone.near": true,
+				"tedlasso.near": true,
+				"lornyp.near": true,
+				"chloe.near": true,
+				"microchipgnu.near": true,
+				"creativesdao.near": true,
+				"bianca.near": true,
+				"root.akaia.near": true,
+				"monza.near": true,
+				"joannaorlova.near": true,
+				"liberty.sputnik-dao.near": true,
+				"0_o.starpause.near": true,
+				"ndcplug.near": true
+			}
+		}
+	},
+	"opacode.near": {
+		"graph": {
+			"follow": {
+				"marcelo.near": true,
+				"mattlock.near": true,
+				"zavodil.near": true,
+				"root.near": true
+			}
+		}
+	},
+	"ftdgoodluck.near": {
+		"graph": {
+			"follow": {
+				"chefsale.near": true,
+				"deniscalimero.near": true,
+				"marcelo.near": true,
+				"as2.near": true,
+				"hapi.near": true,
+				"nearweek-news-contribution.sputnik-dao.near": true,
+				"aliaksandrh.near": true,
+				"root.near": true,
+				"mob.near": true,
+				"iamgalt.near": true,
+				"zavodil.near": true,
+				"marieke.near": true,
+				"blaze.near": true,
+				"calimero.near": true
+			}
+		}
+	},
+	"flatirons.near": {
+		"graph": {
+			"follow": {
+				"roshaan.near": true,
+				"calebjacob.near": true,
+				"near": true,
+				"microchipgnu.near": true,
+				"mob.near": true,
+				"root.near": true,
+				"nearpavel.near": true,
+				"pagoat.near": true,
+				"khorolets.near": true,
+				"nestorsanchez17.near": true,
+				"billionaire100.near": true,
+				"devgovgigs.near": true,
+				"kancrut.near": true,
+				"8ef26e885e711258852dc20f590bb006fe27dd437fc5c34b39654bce9b9a76f1": true,
+				"nearmax.near": true,
+				"jinou.near": true,
+				"shadyxxn.near": true,
+				"klngrs.near": true,
+				"nearhorizon.near": true,
+				"pagodaplatform.near": true,
+				"thaisampr.near": true,
+				"vianftbrasil.near": true
+			}
+		}
+	},
+	"zanli.near": {
+		"graph": {
+			"follow": {
+				"vandal.near": true,
+				"root.near": true,
+				"luacan.near": true,
+				"bbdb07e5bbdee0bd96df4b2eb011be923ec5af14e58d867a95b3ab61b87c19e1": true
+			}
+		}
+	},
+	"blckhntr.near": {
+		"graph": {
+			"follow": {
+				"dadathoo.near": true,
+				"cronus.near": true,
+				"luacan.near": true,
+				"rahulgoel.near": true,
+				"harveys.near": true,
+				"kriptoraptor.near": true,
+				"whendacha.near": true,
+				"kutayguvercin.near": true,
+				"williamxx.near": true,
+				"neversettleinterstellar.near": true,
+				"lucascasp.near": true,
+				"kemo.near": true,
+				"rimberjack.near": true,
+				"3283.near": true,
+				"nearmultiverse.near": true,
+				"fritzwagner.near": true,
+				"nearbrasil.near": true,
+				"aurorabrazilguild.near": true
+			}
+		}
+	},
+	"yonota.near": {
+		"graph": {
+			"follow": {
+				"haenko.near": true,
+				"blaze.near": true,
+				"nearukraineguild.near": true
+			}
+		}
+	},
+	"kutayguvercin.near": {
+		"graph": {
+			"follow": {
+				"kriptoraptor.near": true,
+				"dadathoo.near": true,
+				"blckhntr.near": true
+			}
+		}
+	},
+	"fiatisabubble.near": {
+		"graph": {
+			"follow": {
+				"chiha9.near": true,
+				"itsmarcus.near": true,
+				"davidmo.near": true,
+				"kriptoraptor.near": true,
+				"auroraecosystemnews.near": true,
+				"near": true,
+				"rahulgoel.near": true,
+				"root.near": true,
+				"nearweek-news-contribution.sputnik-dao.near": true,
+				"mintbase.near": true,
+				"pagodaplatform.near": true,
+				"shreyas.near": true,
+				"socialbenz.near": true,
+				"keypom.near": true,
+				"creativesdao.near": true,
+				"whendacha.near": true,
+				"pivortex.near": true,
+				"near-india.near": true,
+				"plugrel.near": true,
+				"meteor-wallet.near": true,
+				"crans.near": true,
+				"rogues.near": true,
+				"alejandro.near": true,
+				"jlw.near": true,
+				"anmatig.near": true,
+				"cryptofolioes.near": true,
+				"meta-pool-official.near": true
+			}
+		}
+	},
+	"contesty.near": {
+		"graph": {
+			"follow": {
+				"rubycop.near": true
+			}
+		}
+	},
+	"mi4ka.near": {
+		"graph": {
+			"follow": {
+				"rubycop.near": true
+			}
+		}
+	},
+	"bluesquid.near": {
+		"graph": {
+			"follow": {
+				"root.near": true,
+				"itsmarcus.near": true,
+				"petarvujovic.near": true
+			}
+		}
+	},
+	"mami.near": {
+		"graph": {
+			"follow": {
+				"root.near": true,
+				"nguyencuong.near": true,
+				"bbdb07e5bbdee0bd96df4b2eb011be923ec5af14e58d867a95b3ab61b87c19e1": true
+			}
+		}
+	},
+	"lucascasp.near": {
+		"graph": {
+			"follow": {
+				"nearmultiverse.near": true,
+				"kriptoraptor.near": true,
+				"manzanal.near": true,
+				"lolarocker.near": true,
+				"alejandro.near": true,
+				"bochenn.near": true,
+				"blckhntr.near": true,
+				"metapool-official.near": true,
+				"meta-pool-official.near": true,
+				"luzmargaritas.near": true,
+				"turco.near": true,
+				"meteor-wallet.near": true
+			}
+		}
+	},
+	"ludonizzi.near": {
+		"graph": {
+			"follow": {
+				"monza.near": true,
+				"murdermysterycollective.near": true
+			}
+		}
+	},
+	"as2.near": {
+		"graph": {
+			"follow": {
+				"zavodil.near": true,
+				"mob.near": true,
+				"auroraecosystemnews.near": true,
+				"near": true,
+				"root.near": true,
+				"marieke.near": true,
+				"chefsale.near": true,
+				"yarotska.near": true
+			}
+		}
+	},
+	"xslymn.near": {
+		"graph": {
+			"follow": {
+				"auroraecosystemnews.near": true,
+				"auroraisneartr.near": true,
+				"nearinturkiye.near": true,
+				"nearmedia.near": true,
+				"cizi31.near": true,
+				"hunters_super_team.near": true,
+				"mrmachine1903.near": true,
+				"cavenaghi.near": true,
+				"frado.near": true,
+				"bbdb07e5bbdee0bd96df4b2eb011be923ec5af14e58d867a95b3ab61b87c19e1": true,
+				"vianftbrasil.near": true
+			}
+		}
+	},
+	"flowscience.near": {
+		"graph": {
+			"follow": {
+				"bluntdao.near": true,
+				"whendacha.near": true,
+				"marieke.near": true,
+				"hack.near": true,
+				"daoplanet.near": true,
+				"cannabisgenome.near": true,
+				"james.near": true,
+				"hackerhouse.near": true,
+				"mattlock.near": true,
+				"jimything.near": true,
+				"minorityprogrammers.near": true,
+				"ndcplug.near": true,
+				"cameron_banyan.near": true,
+				"efiz.near": true,
+				"chloe.near": true,
+				"manzanal.near": true,
+				"opencann.near": true
+			}
+		}
+	},
+	"mydev.near": {
+		"graph": {
+			"follow": {
+				"root.near": true,
+				"alejandro.near": true,
+				"hypefairy.near": true,
+				"azbang.near": true,
+				"sfdao.near": true,
+				"chloe.near": true
+			}
+		}
+	},
+	"richmal.near": {
+		"graph": {
+			"follow": {
+				"fffilimonov.near": true,
+				"root.near": true,
+				"mob.near": true,
+				"zavodil.near": true
+			}
+		}
+	},
+	"ozymandius.near": {
+		"graph": {
+			"follow": {
+				"marieke.near": true,
+				"alejandro.near": true,
+				"lolson.near": true,
+				"blaze.near": true
+			}
+		}
+	},
+	"web4society.near": {
+		"graph": {
+			"follow": {
+				"toolipse.near": true,
+				"marcelo.near": true,
+				"gov.near": true,
+				"create.near": true
+			}
+		}
+	},
+	"nearmultiverse.near": {
+		"graph": {
+			"follow": {
+				"lucascasp.near": true,
+				"nearweek-news-contribution.sputnik-dao.near": true,
+				"marieke.near": true,
+				"manzanal.near": true,
+				"johanga108.near": true,
+				"patrick.near": true,
+				"rektdegen.near": true,
+				"readylayerone.near": true,
+				"alejandro.near": true,
+				"shitzucommunity.near": true,
+				"web3hedge.near": true,
+				"kriptoraptor.near": true,
+				"big_head.near": true,
+				"coineasydao.near": true,
+				"joehank.near": true,
+				"self.social.near": true,
+				"cacossio.near": true,
+				"luacan.near": true,
+				"lolarocker.near": true,
+				"bochenn.near": true,
+				"hackerhouse.near": true,
+				"cameron_banyan.near": true,
+				"pembrocker.near": true,
+				"metamon.near": true,
+				"whendacha.near": true,
+				"partners.learnclub.near": true,
+				"infinitynft.near": true,
+				"thenos.near": true,
+				"56388a4a5f02ebd866ffe311202d2bd0a2d287888f6b367a59afa657cd229900": true,
+				"cudam321.near": true,
+				"rin.akaia.near": true,
+				"devbose.near": true,
+				"toolipse.near": true,
+				"davidmo.near": true,
+				"orangejoe.near": true,
+				"rahulgoel.near": true,
+				"nate.near": true,
+				"rimberjack.near": true,
+				"daorecords.near": true,
+				"blaze.near": true,
+				"bjirken.near": true,
+				"bigbrainmeta.near": true,
+				"0_o.starpause.near": true,
+				"cavenaghi.near": true,
+				"iamgalt.near": true,
+				"akkers.near": true,
+				"tedlasso.near": true,
+				"nearindiahub.near": true,
+				"webuidl.near": true,
+				"bluntdao.near": true,
+				"metapool-official.near": true,
+				"lornyp.near": true,
+				"obukhova.near": true,
+				"minorityprogrammers.near": true,
+				"auroraecosystemnews.near": true,
+				"abstractrabbit.near": true,
+				"infinity.near": true,
+				"dk_51.near": true,
+				"donni.near": true,
+				"meta-pool-hispano.near": true,
+				"meteor-wallet.near": true,
+				"biolmoon.near": true,
+				"microchipgnu.near": true,
+				"root.akaia.near": true,
+				"inna_everstake.near": true,
+				"andreapn.near": true,
+				"vvr.near": true,
+				"andresanemic.near": true,
+				"bancambios.near": true,
+				"cuongdcdev.near": true,
+				"mob.near": true,
+				"dc1e7ab2f25a9cbe8a58354c15a584cef0bce329e2886c2f39e5f0f7b5f86d95": true,
+				"gusthecruel.near": true,
+				"fiatisabubble.near": true,
+				"ramgor.near": true,
+				"millyrodriguez.near": true,
+				"ame9986.near": true,
+				"sharddog.near": true,
+				"cwpuzzles.near": true,
+				"alyonushka.near": true,
+				"herewallet.near": true,
+				"meta-pool-official.near": true,
+				"cronus.near": true,
+				"hypefairy.near": true,
+				"rahela.near": true,
+				"loozr.near": true,
+				"refsocial.near": true,
+				"jumpgroupfoundation.near": true,
+				"psalm.near": true,
+				"osc.near": true,
+				"aescobar.near": true,
+				"near-dapps.near": true,
+				"jumpdefisocial.near": true,
+				"mundoaurora.near": true,
+				"e157bfecfff11160f4cd8410a9fbbcd5f6aa2aa5bb9b0ca2b826779970dc8296": true,
+				"nekosocial.near": true,
+				"davletuner.near": true,
+				"skyempire.near": true,
+				"alan777.near": true,
+				"inc4social.near": true,
+				"calmxyz.near": true,
+				"nearhacks.near": true,
+				"auroralatam.near": true,
+				"evangel.near": true,
+				"gus.near": true,
+				"nearityorg.near": true,
+				"auroraindonesia.near": true,
+				"aurority.near": true,
+				"nfcommunity.near": true,
+				"do0k13.near": true,
+				"fritzwagner.near": true,
+				"oliver24.near": true,
+				"fmilosheski.near": true,
+				"yaneisia.near": true,
+				"og-sbt.sputnik-dao.near": true,
+				"sirs.near": true,
+				"justyy.near": true,
+				"krikkraktrak.near": true,
+				"rezadeli.near": true,
+				"rc-dao.near": true,
+				"monish016.near": true,
+				"ultimate_bisaya.near": true,
+				"jarednotjerry.near": true,
+				"andresdom.near": true,
+				"chloe.near": true,
+				"mariosweateconomy.near": true,
+				"primaveralina.near": true,
+				"williamxx.near": true,
+				"near-global.near": true,
+				"max_one.near": true,
+				"refi.sputnik-dao.near": true,
+				"robert-po4p.near": true,
+				"pierre-dev.near": true,
+				"yourdad.near": true,
+				"carina.akaia.near": true,
+				"derymars.near": true
+			}
+		}
+	},
+	"eduohe.near": {
+		"graph": {
+			"follow": {
+				"nearpavel.near": true,
+				"mob.near": true,
+				"keyokey.near": true,
+				"root.near": true,
+				"roshaan.near": true,
+				"tiffany.near": true,
+				"maicodon.near": true
+			}
+		}
+	},
+	"chat-bot.near": {
+		"graph": {
+			"follow": {
+				"chatme.near": true
+			}
+		}
+	},
+	"iamgalt.near": {
+		"graph": {
+			"follow": {
+				"nearmax.near": true,
+				"hapi.near": true,
+				"blaze.near": true,
+				"nearmultiverse.near": true,
+				"bigbrainmeta.near": true,
+				"root.near": true,
+				"cacossio.near": true,
+				"web3hedge.near": true,
+				"ftdgoodluck.near": true,
+				"marieke.near": true,
+				"urbanite-social.near": true,
+				"garvit_electron.near": true,
+				"near": true,
+				"frol.near": true,
+				"eugenewolf507.near": true,
+				"abstractrabbit.near": true,
+				"toolipse.near": true,
+				"vlodkow.near": true,
+				"marior.near": true,
+				"james.near": true,
+				"microchipgnu.near": true,
+				"mob.near": true,
+				"y3k.near": true,
+				"zahidulislam.near": true,
+				"dgofhealtgo.near": true,
+				"alejandro.near": true,
+				"og-sbt.sputnik-dao.near": true
+			}
+		}
+	},
+	"2bd9d13e2b20a6ea7d7b644321f6af6b90783c8c7ff37364cacab9e5a670fbbf": {
+		"graph": {
+			"follow": {
+				"auroraecosystemnews.near": true
+			}
+		}
+	},
+	"klint.near": {
+		"graph": {
+			"follow": {
+				"alejandro.near": true,
+				"soizj.near": true
+			}
+		}
+	},
+	"primaveralina.near": {
+		"graph": {
+			"follow": {
+				"buidlersclub.near": true,
+				"osc.near": true,
+				"hoangvietanh.near": true,
+				"devgovgigs.near": true,
+				"pembrocker.near": true,
+				"cronus.near": true,
+				"cameron_banyan.near": true,
+				"hypefairy.near": true,
+				"neardigitalcollective.near": true,
+				"carolin.near": true,
+				"mintbase.near": true,
+				"inc4social.near": true,
+				"jedimindtricks.near": true,
+				"hackerhouse.near": true,
+				"blaze.near": true,
+				"0_o.starpause.near": true,
+				"alejandro.near": true,
+				"govworkinggroup.near": true,
+				"beetogether.near": true,
+				"dach.near": true,
+				"ndctrust.near": true,
+				"nearefi.near": true,
+				"atrox1382.near": true,
+				"crans.near": true,
+				"ndctrust.sputnik-dao.near": true
+			}
+		}
+	},
+	"86f46f8b414b8dbddb8dbbdd4280b199847e87fb1a54e774a69b71e970c8fe05": {
+		"graph": {
+			"follow": {
+				"duocelot.near": true,
+				"chefsale.near": true,
+				"readylayerone.near": true
+			}
+		}
+	},
+	"testwiki.near": {
+		"graph": {
+			"follow": {
+				"eugenewolf507.near": true,
+				"vanyog.near": true
+			}
+		}
+	},
+	"fgex.near": {
+		"graph": {
+			"follow": {
+				"jumpdefisocial.near": true,
+				"neardigitalcollective.near": true,
+				"near": true,
+				"nekosocial.near": true,
+				"alejandro.near": true,
+				"root.near": true,
+				"keyokey.near": true,
+				"auroraecosystemnews.near": true,
+				"cuongdcdev.near": true,
+				"bluntdao.near": true,
+				"hackerhouse.near": true,
+				"0_o.starpause.near": true,
+				"infinity.near": true,
+				"krikkraktrak.near": true,
+				"monza.near": true,
+				"borderlesscommunity.near": true,
+				"xuguangxia.near": true,
+				"frado.near": true,
+				"proofofvibes.near": true,
+				"rahulgoel.near": true,
+				"meteor-wallet.near": true,
+				"orangejoe.near": true,
+				"nfcommunity.near": true,
+				"aescobar.near": true,
+				"og-sbt.sputnik-dao.near": true,
+				"megha19.near": true,
+				"cameron.near": true,
+				"robert.near": true,
+				"as.near": true,
+				"nearpavel.near": true,
+				"dokxo.near": true,
+				"iamgalt.near": true,
+				"crans.near": true,
+				"jwl.near": true,
+				"blaze.near": true,
+				"atrox1382.near": true,
+				"vikash.near": true,
+				"mob.near": true,
+				"pbborges.near": true,
+				"whendacha.near": true,
+				"syi216.near": true,
+				"cudam321.near": true,
+				"kiskesis.near": true,
+				"scottie.near": true,
+				"derymars.near": true,
+				"coineasydao.near": true,
+				"bennyblanco.near": true,
+				"andresdom.near": true,
+				"yourdad.near": true,
+				"jarednotjerry.near": true,
+				"odins_eyehole.near": true,
+				"williamxx.near": true,
+				"ramgor.near": true,
+				"shreyas.near": true,
+				"nearversedao.near": true,
+				"zahrah.near": true,
+				"psalm.near": true,
+				"cacossio.near": true,
+				"sahilmassey.near": true,
+				"cryptocoatl.near": true,
+				"bearmans.near": true,
+				"inspiratibiz.near": true,
+				"primaveralina.near": true,
+				"cripteros.near": true,
+				"bailey12.near": true
+			}
+		}
+	},
+	"bjirken.near": {
+		"graph": {
+			"follow": {
+				"nearmultiverse.near": true,
+				"0_o.starpause.near": true,
+				"root.near": true,
+				"bigbrainmeta.near": true,
+				"events_v1.near": true,
+				"opshenry.near": true,
+				"bluntdao.near": true,
+				"porfire.near": true,
+				"bennyblanco.near": true,
+				"genxartist.near": true,
+				"web3hedge.near": true,
+				"wolfwood.near": true,
+				"elcafecartel.near": true,
+				"scottie.near": true,
+				"sarahkornfeld.near": true,
+				"neardigitalcollective.near": true,
+				"chiha9.near": true,
+				"govworkinggroup.near": true,
+				"nearweekapp.near": true,
+				"brandkit.near": true,
+				"aescobar.near": true,
+				"ewtd.near": true,
+				"hopiumm.near": true,
+				"e157bfecfff11160f4cd8410a9fbbcd5f6aa2aa5bb9b0ca2b826779970dc8296": true,
+				"mason-club.near": true,
+				"psalm.near": true,
+				"rodrunner.near": true,
+				"lolarocker.near": true,
+				"victoruche.near": true,
+				"burrowcash": true,
+				"hypefairy.near": true,
+				"business-development.near": true,
+				"dach.near": true,
+				"reup.near": true,
+				"osc.near": true,
+				"alexanderjj.near": true,
+				"markeljan.near": true,
+				"atrox1382.near": true,
+				"yuensid.near": true,
+				"yourdad.near": true,
+				"primaveralina.near": true,
+				"enter-the-sphere.near": true,
+				"wuipod.near": true,
+				"meteor-wallet.near": true,
+				"rc-dao.near": true,
+				"ndcplug.near": true,
+				"xuguangxia.near": true,
+				"derymars.near": true,
+				"alan777.near": true,
+				"jeromemrys.near": true,
+				"fatokunmayowa.near": true,
+				"coineasydao.near": true,
+				"rileytran.near": true,
+				"mrmoh.near": true,
+				"ananastya.near": true,
+				"escobarindo.near": true,
+				"dineshkruplani.near": true,
+				"kiskesis.near": true,
+				"vianftbrasil.near": true,
+				"fritzwagner.near": true,
+				"nneoma.near": true,
+				"monish016.near": true,
+				"alejandro.near": true,
+				"johanga108.near": true,
+				"nearlove.near": true,
+				"izcc.near": true,
+				"frado.near": true,
+				"sirs.near": true,
+				"harveys.near": true,
+				"rahulgoel.near": true,
+				"kemo.near": true,
+				"sachinmurali03.near": true,
+				"igboze_builder.near": true,
+				"planetaworld.near": true,
+				"luciotato.near": true,
+				"justyy.near": true,
+				"nearbrasil.near": true,
+				"aurorabrazilguild.near": true
+			}
+		}
+	},
+	"revmiller.near": {
+		"graph": {
+			"follow": {
+				"root.near": true,
+				"yarotska.near": true
+			}
+		}
+	},
+	"onchainengineer.near": {
+		"graph": {
+			"follow": {
+				"visca.near": true
+			}
+		}
+	},
+	"sztok.near": {
+		"graph": {
+			"follow": {
+				"chefsale.near": true
+			}
+		}
+	},
+	"alabema.near": {
+		"graph": {
+			"follow": {
+				"cryptogarik.near": true,
+				"iamanansari.near": true
+			}
+		}
+	},
+	"denni.near": {
+		"graph": {
+			"follow": {
+				"osc.near": true,
+				"hack.near": true,
+				"johanga108.near": true
+			}
+		}
+	},
+	"sangram731.near": {
+		"graph": {
+			"follow": {
+				"duocelot.near": true
+			}
+		}
+	},
+	"praizmath.near": {
+		"graph": {
+			"follow": {
+				"duocelot.near": true
+			}
+		}
+	},
+	"joegift.near": {
+		"graph": {
+			"follow": {
+				"duocelot.near": true
+			}
+		}
+	},
+	"april2728.near": {
+		"graph": {
+			"follow": {
+				"duocelot.near": true
+			}
+		}
+	},
+	"tiberiu16.near": {
+		"graph": {
+			"follow": {
+				"auroraecosystemnews.near": true,
+				"nekosocial.near": true,
+				"rogues.near": true
+			}
+		}
+	},
+	"inspiratibiz.near": {
+		"graph": {
+			"follow": {
+				"rc-dao.sputnik-dao.near": true,
+				"alejandro.near": true,
+				"blaze.near": true
+			}
+		}
+	},
+	"abdulwasih.near": {
+		"graph": {
+			"follow": {
+				"filippoarmani91.near": true,
+				"duocelot.near": true,
+				"geoffrey1.near": true
+			}
+		}
+	},
+	"raicholime.near": {
+		"graph": {
+			"follow": {
+				"vikk.near": true
+			}
+		}
+	},
+	"cameron_banyan.near": {
+		"graph": {
+			"follow": {
+				"readylayerone.near": true,
+				"nearweek-news-contribution.sputnik-dao.near": true,
+				"jjyuan.near": true,
+				"bigbrainmeta.near": true,
+				"root.near": true,
+				"devgovgigs.near": true,
+				"zahidulislam.near": true,
+				"microchipgnu.near": true,
+				"sanketn81.near": true,
+				"components-mailchain.near": true,
+				"inc4social.near": true,
+				"nearpaddev.near": true,
+				"elcafecartel.near": true,
+				"sherif.near": true,
+				"primaveralina.near": true,
+				"tigowa.near": true,
+				"nearhacks.near": true,
+				"0_o.starpause.near": true,
+				"mintbase.near": true,
+				"efiz.near": true,
+				"nearhorizon.near": true,
+				"nycdao.near": true,
+				"jlw.near": true,
+				"joannaorlova.near": true,
+				"tiffany.near": true,
+				"humanman.near": true,
+				"nfcommunity.near": true,
+				"indonesiaguild.near": true,
+				"manzanal.near": true,
+				"roshaan.near": true,
+				"evrything.near": true,
+				"contribut3.near": true,
+				"hack.near": true,
+				"sking.near": true,
+				"gov.near": true,
+				"neardigitalcollective.near": true,
+				"ae40cb52839f896de8ec2313e5d7ef5f3b05b9ebc474329fa3456eec32126055": true,
+				"silkking.near": true,
+				"events_v2.near": true,
+				"f2bc8abdb8ba64fe5aac9689ded9491ff0e6fdcd7a5c680b7cf364142d1789fb": true,
+				"benreilly.near": true,
+				"mob.near": true,
+				"eugenewolf507.near": true,
+				"events_v1.near": true,
+				"jgodwill.near": true,
+				"dima_sheleg.near": true,
+				"harrydhillon.near": true,
+				"linearprotocol.near": true,
+				"saidulbadhon.near": true,
+				"mattlock.near": true,
+				"bo.near": true,
+				"easypoll.near": true,
+				"dorgon108.near": true,
+				"frol.near": true,
+				"nearweekapp.near": true,
+				"frichard5.near": true,
+				"oztanmain.near": true,
+				"infinity.near": true,
+				"coldy.near": true,
+				"vow_owner_123.near": true,
+				"gagdiez.near": true,
+				"logunov.near": true,
+				"jakmeier.near": true,
+				"p516entropy.near": true,
+				"weige.near": true,
+				"symonov.near": true,
+				"elliotbraem.near": true,
+				"johanga108.near": true,
+				"mohammadhs.near": true,
+				"a92d2106fd31a2d52501953961b1639745434ee343fb6303e4d0195b501b75ad": true,
+				"neardevgov.near": true,
+				"hackerhouse.near": true,
+				"andyh.near": true,
+				"connectamey.near": true,
+				"ostolex.near": true,
+				"michaelpeter.near": true,
+				"james.near": true,
+				"simonemelanie.near": true,
+				"bozon.near": true,
+				"solleder.near": true,
+				"golas.near": true,
+				"syi216.near": true,
+				"miraclx.near": true,
+				"ciocan.near": true,
+				"kasodon.near": true,
+				"flatirons.near": true,
+				"devgigsboard.bo.near": true,
+				"minorityprogrammers.near": true,
+				"ynottryit.near": true,
+				"sainthiago.near": true,
+				"petersalomonsen.near": true,
+				"blockchain-success.near": true,
+				"liberty.sputnik-dao.near": true,
+				"sfdao.near": true,
+				"kazanderdad.near": true,
+				"ndcplug.near": true,
+				"NEARpad": true,
+				"odins_eyehole.near": true,
+				"meteor-wallet.near": true,
+				"hanspham.near": true,
+				"c74edb82759f476010ce8363e6be15fcb3cfebf9be6320d6cdc3588f1a5b4c0e": true,
+				"calebjacob.near": true,
+				"scottie.near": true
+			}
+		}
+	},
+	"0xiriskiara.near": {
+		"graph": {
+			"follow": {
+				"duocelot.near": true
+			}
+		}
+	},
+	"tepixelabs.near": {
+		"graph": {
+			"follow": {
+				"duocelot.near": true,
+				"auroraecosystemnews.near": true
+			}
+		}
+	},
+	"armeniansigma.near": {
+		"graph": {
+			"follow": {
+				"nearnativenews.near": true
+			}
+		}
+	},
+	"gagdiez.near": {
+		"graph": {
+			"follow": {
+				"zavodil.near": true,
+				"root.near": true,
+				"cameron_banyan.near": true,
+				"mob.near": true,
+				"cacossio.near": true,
+				"woben.near": true,
+				"root.benjiman.near": true
+			}
+		}
+	},
+	"y3k.near": {
+		"graph": {
+			"follow": {
+				"root.near": true,
+				"near": true,
+				"davidweinstein.near": true,
+				"mob.near": true,
+				"zavodil.near": true,
+				"microchipgnu.near": true,
+				"roshaan.near": true,
+				"marieke.near": true,
+				"minorityprogrammers.near": true,
+				"liberty.sputnik-dao.near": true,
+				"jinou.near": true,
+				"abhishekanirudhan.near": true
+			}
+		}
+	},
+	"mcoburn.near": {
+		"graph": {
+			"follow": {
+				"davidweinstein.near": true,
+				"marieke.near": true,
+				"f43da983d78f3289720db92740e0bc254330a323ede28e54e21269f57a1b3898": true,
+				"itsmarcus.near": true
+			}
+		}
+	},
+	"neardevgov.near": {
+		"graph": {
+			"follow": {
+				"frol.near": true
+			}
+		}
+	},
+	"big_head.near": {
+		"graph": {
+			"follow": {
+				"nearmultiverse.near": true,
+				"sebga.near": true,
+				"root.near": true,
+				"pembrocker.near": true,
+				"neardevgov.near": true,
+				"near": true,
+				"self.social.near": true,
+				"meta-pool-official.near": true,
+				"nearweek-news-contribution.sputnik-dao.near": true,
+				"partners.learnclub.near": true,
+				"sharddog.near": true,
+				"brennaspark.near": true,
+				"cronus.near": true,
+				"mob.near": true,
+				"cacossio.near": true,
+				"nearmax.near": true,
+				"cameron_banyan.near": true,
+				"mintbase.near": true,
+				"luzmargaritas.near": true,
+				"auroraecosystemnews.near": true,
+				"pagodaplatform.near": true,
+				"sudoone.near": true,
+				"microchipgnu.near": true,
+				"michaelpeter.near": true,
+				"refsocial.near": true,
+				"meteor-wallet.near": true,
+				"khorolets.near": true,
+				"keyokey.near": true,
+				"porfire.near": true,
+				"mr27.near": true,
+				"inna_everstake.near": true,
+				"whendacha.near": true,
+				"hypefairy.near": true,
+				"maicodon.near": true,
+				"sirs.near": true,
+				"hackerhouse.near": true,
+				"dach.near": true
+			}
+		}
+	},
+	"axelofwar.near": {
+		"graph": {
+			"follow": {
+				"nearmultiverse.near": true,
+				"root.near": true
+			}
+		}
+	},
+	"motzart.near": {
+		"graph": {
+			"follow": {
+				"pembrocker.near": true,
+				"inc4social.near": true
+			}
+		}
+	},
+	"pembrocker.near": {
+		"graph": {
+			"follow": {
+				"valar999.near": true,
+				"motzart.near": true,
+				"primaveralina.near": true,
+				"herewallet.near": true
+			}
+		}
+	},
+	"keklolfireball.near": {
+		"graph": {
+			"follow": {
+				"pembrocker.near": true
+			}
+		}
+	},
+	"bochenn.near": {
+		"graph": {
+			"follow": {
+				"lucascasp.near": true,
+				"nearmultiverse.near": true,
+				"cacossio.near": true,
+				"alejandro.near": true,
+				"lolarocker.near": true,
+				"nomada.near": true,
+				"luzmargaritas.near": true,
+				"meta-pool-official.near": true,
+				"mattlock.near": true,
+				"pagodaplatform.near": true,
+				"herewallet.near": true,
+				"cuongdcdev.near": true,
+				"gov.near": true,
+				"root.near": true,
+				"marieke.near": true,
+				"blaze.near": true,
+				"manzanal.near": true,
+				"bancambios.near": true,
+				"partners.learnclub.near": true
+			}
+		}
+	},
+	"cacossio.near": {
+		"graph": {
+			"follow": {
+				"bochenn.near": true,
+				"nearmultiverse.near": true,
+				"kriptoraptor.near": true,
+				"cameron_banyan.near": true,
+				"jlw.near": true,
+				"alejandro.near": true,
+				"lolarocker.near": true,
+				"hackerhouse.near": true,
+				"gagdiez.near": true,
+				"readylayerone.near": true,
+				"cudam321.near": true,
+				"56388a4a5f02ebd866ffe311202d2bd0a2d287888f6b367a59afa657cd229900": true,
+				"bigbrainmeta.near": true,
+				"chloe.near": true,
+				"izcc.near": true,
+				"fritzwagner.near": true,
+				"meta-pool-official.near": true
+			}
+		}
+	},
+	"luzmargaritas.near": {
+		"graph": {
+			"follow": {
+				"nearmultiverse.near": true,
+				"truescience.near": true,
+				"partners.learnclub.near": true,
+				"meta-pool-official.near": true,
+				"big_head.near": true,
+				"bochenn.near": true,
+				"alejandro.near": true,
+				"hypefairy.near": true,
+				"manzanal.near": true,
+				"lucascasp.near": true,
+				"lolarocker.near": true,
+				"alan777.near": true,
+				"joehank.near": true,
+				"6c16998ab27216f2123f2c87254b6790c71b16bf09603831da7a31e5433ede77": true,
+				"dcjanio.near": true,
+				"toolipse.near": true,
+				"psalm.near": true,
+				"rc-dao.sputnik-dao.near": true
+			}
+		}
+	},
+	"nomada.near": {
+		"graph": {
+			"follow": {
+				"meta-pool-official.near": true,
+				"alejandro.near": true,
+				"bochenn.near": true
+			}
+		}
+	},
+	"lolarocker.near": {
+		"graph": {
+			"follow": {
+				"bochenn.near": true,
+				"cacossio.near": true,
+				"nomada.near": true,
+				"nearmultiverse.near": true,
+				"manzanal.near": true,
+				"alejandro.near": true,
+				"56388a4a5f02ebd866ffe311202d2bd0a2d287888f6b367a59afa657cd229900": true,
+				"lucascasp.near": true,
+				"bjirken.near": true
+			}
+		}
+	},
+	"robot_rt.near": {
+		"graph": {
+			"follow": {
+				"peechz.near": true
+			}
+		}
+	},
+	"waldmatias.near": {
+		"graph": {
+			"follow": {
+				"auroraecosystemnews.near": true,
+				"mintbase.near": true,
+				"nearmax.near": true,
+				"near": true,
+				"neardigitalcollective.near": true,
+				"root.near": true,
+				"beetogether.near": true,
+				"keypom.near": true,
+				"salikc9.near": true,
+				"partners.learnclub.near": true,
+				"nearhorizon.near": true,
+				"kenjon.near": true,
+				"cameron_banyan.near": true,
+				"morganpage.near": true,
+				"mrsmomand.near": true,
+				"minorityprogrammers.near": true
+			}
+		}
+	},
+	"root.benjiman.near": {
+		"graph": {
+			"follow": {
+				"example.near": true,
+				"mattlock.near": true,
+				"keypom.near": true
+			}
+		}
+	},
+	"mywonder23.near": {
+		"graph": {
+			"follow": {
+				"near": true,
+				"herewallet.near": true,
+				"promo.fewandfar.near": true,
+				"cronus.near": true,
+				"mooob.near": true,
+				"mob.near": true,
+				"azbang.near": true,
+				"mydev.near": true,
+				"root.near": true
+			}
+		}
+	},
+	"rojoser.near": {
+		"graph": {
+			"follow": {
+				"mob.near": true,
+				"nearindiahub.near": true,
+				"queef-vault.near": true,
+				"nearmultiverse.near": true,
+				"scottie.near": true,
+				"nearpavel.near": true,
+				"scopalaffairs.near": true
+			}
+		}
+	},
+	"56388a4a5f02ebd866ffe311202d2bd0a2d287888f6b367a59afa657cd229900": {
+		"graph": {
+			"follow": {
+				"cacossio.near": true,
+				"alejandro.near": true,
+				"readylayerone.near": true,
+				"nearmultiverse.near": true,
+				"bochenn.near": true,
+				"lolarocker.near": true,
+				"meta-pool-official.near": true
+			}
+		}
+	},
+	"zeitwarp.near": {
+		"graph": {
+			"follow": {
+				"neardigitalcollective.near": true,
+				"chloe.near": true,
+				"alejandro.near": true,
+				"0_o.starpause.near": true,
+				"wuipod.near": true,
+				"mattlock.near": true,
+				"tamagomusic.near": true
+			}
+		}
+	},
+	"pebble.near": {
+		"graph": {
+			"follow": {
+				"enleap-test.near": true
+			}
+		}
+	},
+	"d7c558d4c65b5ae31da326d92073517690b25be8a1e247ca0b4faad43cc45a31": {
+		"graph": {
+			"follow": {
+				"auroraecosystemnews.near": true
+			}
+		}
+	},
+	"dogger.near": {
+		"graph": {
+			"follow": {
+				"auroraecosystemnews.near": true,
+				"nearukraineguild.near": true
+			}
+		}
+	},
+	"porfire.near": {
+		"graph": {
+			"follow": {
+				"root.near": true,
+				"woben.near": true,
+				"mob.near": true,
+				"near": true,
+				"as2.near": true,
+				"marieke.near": true,
+				"web3hedge.near": true,
+				"pagodaplatform.near": true,
+				"calebjacob.near": true,
+				"nearweek-news-contribution.sputnik-dao.near": true,
+				"goatboy360.near": true
+			}
+		}
+	},
+	"cooperwestendarp.near": {
+		"graph": {
+			"follow": {
+				"nearweek-news-contribution.sputnik-dao.near": true,
+				"root.near": true,
+				"marieke.near": true,
+				"neardigitalcollective.near": true,
+				"nearhorizon.near": true,
+				"business-development.near": true,
+				"weneedyou.near": true,
+				"readylayerone.near": true,
+				"microchipgnu.near": true,
+				"alejandro.near": true,
+				"blaze.near": true,
+				"ibohigboze.near": true,
+				"nate.near": true,
+				"neardc.near": true
+			}
+		}
+	},
+	"greenghost.near": {
+		"graph": {
+			"follow": {
+				"promo.fewandfar.near": true,
+				"octop.near": true,
+				"yourdad.near": true,
+				"olezba.near": true,
+				"berrysamba.near": true,
+				"ndcplug.near": true
+			}
+		}
+	},
+	"pawntoqueen.near": {
+		"graph": {
+			"follow": {
+				"chefsale.near": true
+			}
+		}
+	},
+	"nearchan.near": {
+		"graph": {
+			"follow": {
+				"zeitwarp.near": true,
+				"devbose.near": true,
+				"cacossio.near": true,
+				"sahilmassey.near": true,
+				"orangejoe.near": true,
+				"duocelot.near": true,
+				"alejandro.near": true,
+				"0_o.starpause.near": true,
+				"davidmo.near": true,
+				"chloe.near": true,
+				"vlad.near": true,
+				"gus.near": true,
+				"blaze.near": true,
+				"rakifk96.near": true,
+				"minorityprogrammers.near": true,
+				"naughtyartist.near": true,
+				"cwpuzzles.near": true,
+				"kriptoraptor.near": true,
+				"timothyavery.near": true,
+				"mosasamo999.near": true,
+				"nearbrasil.near": true,
+				"damian17.near": true,
+				"vianftbrasil.near": true,
+				"marior.near": true
+			}
+		}
+	},
+	"clippy.near": {
+		"graph": {
+			"follow": {
+				"neardigitalcollective.near": true,
+				"govworkinggroup.near": true,
+				"atrox1382.near": true,
+				"toolipse.near": true,
+				"sophielequeen.near": true,
+				"0_o.starpause.near": true,
+				"cryptois.near": true,
+				"cuongdcdev.near": true,
+				"jaybeechem.near": true,
+				"ogruss.near": true,
+				"blaze.near": true,
+				"daoashe.near": true,
+				"xuguangxia.near": true,
+				"proofofvibes.near": true,
+				"chloe.near": true,
+				"duocelot.near": true,
+				"palomaetienne.near": true,
+				"rahulgoel.near": true,
+				"laissu.near": true,
+				"nagendrasrisai05.near": true,
+				"aurorabrazilguild.near": true,
+				"nearbrasil.near": true
+			}
+		}
+	},
+	"rin.akaia.near": {
+		"graph": {
+			"follow": {
+				"blaze.near": true,
+				"nearmultiverse.near": true,
+				"cavenaghi.near": true,
+				"hackerhouse.near": true,
+				"charleslavon.near": true,
+				"simonemelanie.near": true,
+				"zavodil.near": true,
+				"mob.near": true,
+				"self.social.near": true,
+				"rustyguild.near": true,
+				"daorecords.near": true,
+				"buidlersclub.near": true,
+				"hellonepbot.near": true,
+				"create.near": true,
+				"root.near": true,
+				"chloe.near": true,
+				"duocelot.near": true,
+				"nearweek-news-contribution.sputnik-dao.near": true,
+				"near": true,
+				"meta-pool-official.near": true,
+				"readylayerone.near": true,
+				"enter-the-sphere.near": true,
+				"akaia.near": true,
+				"rynzaro.near": true,
+				"truescience.near": true,
+				"mr27.near": true,
+				"vself.near": true,
+				"kcpesce.near": true,
+				"demodayis.near": true,
+				"sharddog.near": true
+			}
+		}
+	},
+	"efiz.near": {
+		"graph": {
+			"follow": {
+				"frol.near": true,
+				"littlelion.near": true,
+				"devs.near": true,
+				"microchipgnu.near": true,
+				"davidmo.near": true,
+				"mike.near": true,
+				"undefined": true,
+				"markeljan.near": true,
+				"zahidulislam.near": true,
+				"evrything.near": true,
+				"hack.near": true,
+				"hypefairy.near": true,
+				"mob.near": true,
+				"superposition.near": true,
+				"joannaorlova.near": true,
+				"chrisronmike.near": true,
+				"1vs1.near": true,
+				"infinity.near": true,
+				"root.near": true,
+				"nate.near": true,
+				"sainthiago.near": true,
+				"tedlasso.near": true,
+				"saidulbadhon.near": true,
+				"wendersonpires.near": true,
+				"0_o.starpause.near": true,
+				"nearmax.near": true,
+				"minorityprogrammers.near": true,
+				"roshaan.near": true,
+				"nycdao.near": true,
+				"cameron_banyan.near": true,
+				"aurobot99.near": true,
+				"evangel.near": true,
+				"fblauer.near": true,
+				"achildhoodhero.near": true,
+				"root.akaia.near": true,
+				"dach.near": true,
+				"humanman.near": true,
+				"akshay_1.near": true,
+				"nearweek-news-contribution.sputnik-dao.near": true,
+				"petersalomonsen.near": true,
+				"chiha9.near": true,
+				"cuongdcdev.near": true,
+				"scottie.near": true,
+				"manzanal.near": true,
+				"chloe.near": true,
+				"bonerz.near": true,
+				"williamxx.near": true,
+				"nearhorizon.near": true,
+				"neardigitalcollective.near": true,
+				"balaianu.near": true,
+				"root.benjiman.near": true,
+				"linhanhn.near": true,
+				"nhitran789.near": true,
+				"antran2809.near": true,
+				"dyndyn.near": true,
+				"aidenaidan.near": true,
+				"letruonghoan09.near": true,
+				"meowmeowcute.near": true,
+				"scifx.near": true,
+				"phanquynhchi.near": true,
+				"b0680daf58687540543e0819c30e6aa459d347a618351c7da0ef7eed9eac5a41": true,
+				"nqd2003.near": true,
+				"e760e7e1f78fb010bd10ae22387241cbd61d6287c083df11514be81cece141c6": true,
+				"cc0e2564276431fdb4a39c62991d70a301008492e7a3b536d6f75c4921b369c1": true,
+				"skyharbour.near": true,
+				"liberty.sputnik-dao.near": true,
+				"vvr.near": true,
+				"weneedyou.near": true,
+				"bobbydigital.near": true,
+				"sharddog.near": true,
+				"rubenzmart.near": true,
+				"wimo.near": true,
+				"grex.near": true,
+				"20085a827d537c68443a53d9d6c851a4fbeb7adbde5addaa8a224f81e5f2b27e": true,
+				"coreto.near": true,
+				"james.near": true,
+				"datablock.near": true,
+				"tribos.near": true,
+				"brzk-93444.near": true,
+				"emily-watterson.near": true,
+				"ogruss.near": true,
+				"reup.near": true,
+				"harryhedgehog.near": true,
+				"borderlesscommunity.near": true,
+				"kingdeemo.near": true,
+				"creativesdao.near": true,
+				"yourdad.near": true,
+				"player1taco.near": true,
+				"calebjacob.near": true,
+				"jjyuan.near": true,
+				"daphne_rynders.near": true,
+				"jarrodbarnes.near": true,
+				"shemar268abel.near": true,
+				"jlw.near": true,
+				"saveplanet.near": true,
+				"davidweinstein.near": true,
+				"eb53ec39ee209676105891c095fcde81fde9671d3155e92da2486c2f6c080c9d": true,
+				"whendacha.near": true,
+				"kazanderdad.near": true,
+				"readylayerone.near": true,
+				"cooperwestendarp.near": true,
+				"alejandro.near": true,
+				"ndcplug.near": true,
+				"db371.near": true,
+				"xuguangxia.near": true,
+				"multi.sputnik-dao.near": true,
+				"build.sputnik-dao.near": true,
+				"victorkanu1.near": true,
+				"smellmi.near": true,
+				"itzray.near": true,
+				"austinballard.near": true,
+				"mingfaichan.near": true,
+				"davidkeleher.near": true,
+				"1thedarkmoon.near": true,
+				"orangejoe.near": true,
+				"genxartist.near": true,
+				"cwpuzzles.near": true,
+				"wormhole3.near": true,
+				"heycorwin.near": true,
+				"nearnoborders.near": true,
+				"deepspace9.near": true,
+				"jarednotjerry.near": true,
+				"nearweek.near": true,
+				"mattlock.near": true,
+				"trophy001.near": true,
+				"web3plug.near": true,
+				"robertyan.near": true,
+				"duocelot.near": true,
+				"nyc-brooklyn.near": true,
+				"jamiel.near": true,
+				"proofofvibes.near": true,
+				"onboarder.near": true,
+				"filltheblanc.near": true,
+				"plugrel.near": true,
+				"pivortex.near": true,
+				"jgodwill.near": true,
+				"carina.akaia.near": true,
+				"vibes.sputnik-dao.near": true,
+				"frado.near": true,
+				"myfanclub.near": true,
+				"alexsaddler.near": true,
+				"flowscience.near": true,
+				"akaia.near": true,
+				"mattb.near": true,
+				"blaze.near": true,
+				"jilt.near": true,
+				"nearhacks.near": true,
+				"sking.near": true,
+				"fiatisabubble.near": true,
+				"gauthamravi.near": true,
+				"hackerhouse.near": true,
+				"jcarbonnell.near": true,
+				"bos-dev.near": true,
+				"nearui.near": true
+			}
+		}
+	},
+	"devbose.near": {
+		"graph": {
+			"follow": {
+				"readylayerone.near": true,
+				"nearchan.near": true,
+				"nearmultiverse.near": true,
+				"vvr.near": true,
+				"mike.near": true,
+				"whendacha.near": true,
+				"zahrah.near": true,
+				"gusthecruel.near": true,
+				"reup.near": true,
+				"davidweinstein.near": true,
+				"neardigitalcollective.near": true,
+				"cwpuzzles.near": true,
+				"cudam321.near": true,
+				"harshit.near": true,
+				"dapppunk.near": true,
+				"nearmedia.near": true,
+				"dach.near": true,
+				"0_o.starpause.near": true,
+				"rahulgoel.near": true,
+				"meteor-wallet.near": true,
+				"davletuner.near": true,
+				"deepspace9.near": true,
+				"trophy001.near": true,
+				"aiml.near": true,
+				"chloe.near": true,
+				"molefisoke.near": true,
+				"zanglee.near": true,
+				"sfdao.near": true,
+				"onboarder.near": true,
+				"nonothenono.near": true,
+				"sahilmassey.near": true,
+				"liight.near": true,
+				"proofofvibes.near": true,
+				"burtzkie.near": true,
+				"krikkraktrak.near": true,
+				"zennie.near": true,
+				"nearversedao.near": true,
+				"fc07b182041cede489fc6c8c0c854523f9e2220bf995c7b17d7cf12bcd6623e1": true,
+				"bluntdao.near": true,
+				"nearpavel.near": true,
+				"roshaan.near": true,
+				"blaze.near": true,
+				"christinas.near": true,
+				"ntare.near": true,
+				"plugrel.near": true,
+				"duocelot.near": true,
+				"alejandro.near": true,
+				"explorebivab.near": true,
+				"near-india.near": true,
+				"fiatisabubble.near": true,
+				"dk_51.near": true,
+				"hackerhouse.near": true,
+				"nearhacks.near": true,
+				"pumpopoly.near": true,
+				"chefsale.near": true,
+				"gwg.sputnik-dao.near": true,
+				"kazanderdad.near": true,
+				"sarahkornfeld.near": true
+			}
+		}
+	},
+	"joep.near": {
+		"graph": {
+			"follow": {
+				"neardigitalcollective.near": true,
+				"govworkinggroup.near": true,
+				"weneedyou.near": true,
+				"blaze.near": true,
+				"atrox1382.near": true,
+				"chloe.near": true,
+				"ogruss.near": true,
+				"vandal.near": true
+			}
+		}
+	},
+	"maxhr.near": {
+		"graph": {
+			"follow": {
+				"hackerhouse.near": true,
+				"michaelpeter.near": true
+			}
+		}
+	},
+	"sysh.near": {
+		"graph": {
+			"follow": {
+				"auroraafrica.near": true,
+				"hackerhouse.near": true,
+				"dcjanio.near": true
+			}
+		}
+	},
+	"lccc.near": {
+		"graph": {
+			"follow": {
+				"jarrodbarnes.near": true,
+				"jquant.near": true,
+				"kuutamo.near": true,
+				"ampleplatform.near": true
+			}
+		}
+	},
+	"pswu.near": {
+		"graph": {
+			"follow": {
+				"marieke.near": true
+			}
+		}
+	},
+	"alok555.near": {
+		"graph": {
+			"follow": {
+				"near": true
+			}
+		}
+	},
+	"nearindiahub.near": {
+		"graph": {
+			"follow": {
+				"maslin.near": true,
+				"root.near": true,
+				"zavodil.near": true,
+				"blaze.near": true,
+				"self.social.near": true,
+				"alejandro.near": true,
+				"marieke.near": true,
+				"vlad.near": true,
+				"cronus.near": true,
+				"mattlock.near": true,
+				"vadim.near": true,
+				"nearmax.near": true,
+				"keyokey.near": true,
+				"readylayerone.near": true,
+				"davidmo.near": true,
+				"whendacha.near": true,
+				"mike.near": true,
+				"joshua.near": true,
+				"partners.learnclub.near": true,
+				"infinity.near": true,
+				"cavenaghi.near": true,
+				"hackerhouse.near": true,
+				"nearpavel.near": true,
+				"gov.near": true,
+				"luacan.near": true,
+				"rahulgoel.near": true,
+				"nearweek-news-contribution.sputnik-dao.near": true,
+				"orangejoe.near": true,
+				"odins_eyehole.near": true,
+				"harveys.near": true,
+				"eskkoushik.near": true,
+				"garvit_electron.near": true,
+				"nearmultiverse.near": true,
+				"mob.near": true,
+				"aliaksandrh.near": true,
+				"johanga108.near": true,
+				"0_o.starpause.near": true,
+				"fblauer.near": true,
+				"urbanite.near": true,
+				"marcelo.near": true,
+				"infinitynft.near": true,
+				"chloe.near": true,
+				"kriptoraptor.near": true,
+				"cuongdcdev.near": true,
+				"xsb.near": true,
+				"cudam321.near": true,
+				"tolmindev.near": true,
+				"osc.near": true,
+				"bancambios.near": true,
+				"itsmarcus.near": true,
+				"mally.near": true,
+				"haenko.near": true,
+				"vlodkow.near": true,
+				"sonke.near": true,
+				"goldich.near": true,
+				"vself.near": true,
+				"marior.near": true,
+				"nate.near": true,
+				"petersalomonsen.near": true,
+				"bilibili.near": true,
+				"microchipgnu.near": true,
+				"tigowa.near": true,
+				"benipsen.near": true,
+				"ruziev.near": true,
+				"roshaan.near": true,
+				"p3ter.near": true,
+				"aryonchain.near": true,
+				"ddengler.near": true,
+				"jbryce.near": true,
+				"duocelot.near": true,
+				"jquant.near": true,
+				"crans.near": true,
+				"muticollective.near": true,
+				"simonemelanie.near": true,
+				"hoangvietanh.near": true,
+				"hellonepbot.near": true,
+				"xuweiguo.near": true,
+				"ilerik.near": true,
+				"millefolium.near": true,
+				"minhcongphan.near": true,
+				"anhphan2018.near": true,
+				"scottie.near": true,
+				"dgorton.near": true,
+				"julie.near": true,
+				"inna_everstake.near": true
+			}
+		}
+	},
+	"carolin.near": {
+		"graph": {
+			"follow": {
+				"mintbase.near": true,
+				"kuveke.near": true,
+				"codame.near": true,
+				"luisinfante.near": true,
+				"microchipgnu.near": true,
+				"infinity.near": true,
+				"metameech.near": true,
+				"primaveralina.near": true,
+				"atrox1382.near": true,
+				"mason-club.near": true,
+				"toolipse.near": true,
+				"crans.near": true
+			}
+		}
+	},
+	"codame.near": {
+		"graph": {
+			"follow": {
+				"carolin.near": true,
+				"nate.near": true,
+				"toolipse.near": true,
+				"hack.near": true,
+				"microchipgnu.near": true,
+				"infinity.near": true,
+				"inadaov2.near": true,
+				"muticollective.near": true
+			}
+		}
+	},
+	"kangaroojack.near": {
+		"graph": {
+			"follow": {
+				"alejandro.near": true,
+				"jumpdefisocial.near": true,
+				"0_o.starpause.near": true,
+				"plugrel.near": true,
+				"blaze.near": true,
+				"proofofvibes.near": true,
+				"derymars.near": true,
+				"nearbrasil.near": true,
+				"calmxyz.near": true
+			}
+		}
+	},
+	"vikk.near": {
+		"graph": {
+			"follow": {
+				"raicholime.near": true
+			}
+		}
+	},
+	"abstractrabbit.near": {
+		"graph": {
+			"follow": {
+				"nearnftclub.near": true,
+				"calcamonia.near": true,
+				"genxartist.near": true,
+				"osc.near": true,
+				"vlodkow.near": true,
+				"benipsen.near": true,
+				"zahrah.near": true,
+				"chloe.near": true,
+				"urbanite-social.near": true,
+				"0_o.starpause.near": true,
+				"duocelot.near": true,
+				"tedlasso.near": true,
+				"ae40cb52839f896de8ec2313e5d7ef5f3b05b9ebc474329fa3456eec32126055": true,
+				"cuongdcdev.near": true,
+				"mr27.near": true,
+				"partners.learnclub.near": true,
+				"rahulgoel.near": true,
+				"creativesdao.near": true,
+				"near": true,
+				"bluegirl.near": true,
+				"iamgalt.near": true,
+				"jaswinder.near": true,
+				"jass.near": true,
+				"mintbase.near": true,
+				"sebga.near": true,
+				"opshenry.near": true,
+				"rubenzmart.near": true,
+				"ironbear.near": true,
+				"ericweb3.near": true,
+				"sharddog.near": true,
+				"porfire.near": true,
+				"woben.near": true,
+				"root.near": true,
+				"bigbrainmeta.near": true,
+				"marieke.near": true,
+				"toolipse.near": true,
+				"eugenewolf507.near": true,
+				"nearmultiverse.near": true,
+				"blaze.near": true,
+				"web3hedge.near": true,
+				"bozon.near": true,
+				"joergphotos.near": true,
+				"near_insider.near": true
+			}
+		}
+	},
+	"semyon.near": {
+		"graph": {
+			"follow": {
+				"zavodil.near": true
+			}
+		}
+	},
+	"evrard-nil.near": {
+		"graph": {
+			"follow": {
+				"pierre-dev.near": true,
+				"kenjon.near": true
+			}
+		}
+	},
+	"bigbrainmeta.near": {
+		"graph": {
+			"follow": {
+				"0_o.starpause.near": true,
+				"bjirken.near": true,
+				"naomi_is.near": true,
+				"readylayerone.near": true,
+				"chefsale.near": true,
+				"root.near": true,
+				"nearmultiverse.near": true,
+				"cacossio.near": true,
+				"orangejoe.near": true,
+				"cameron_banyan.near": true,
+				"iamgalt.near": true,
+				"bennyblanco.near": true,
+				"web3hedge.near": true,
+				"kenjon.near": true,
+				"hackerhouse.near": true,
+				"meteor-wallet.near": true,
+				"hopiumm.near": true,
+				"aescobar.near": true,
+				"reup.near": true,
+				"jeanrocha.near": true,
+				"scottie.near": true,
+				"gusthecruel.near": true,
+				"cwpuzzles.near": true,
+				"tedlasso.near": true,
+				"krikkraktrak.near": true,
+				"itsmarcus.near": true,
+				"9c461db4ac11b66ed1167ff969042ac278eaf2d571712585424be00171a63884": true,
+				"genwav.near": true,
+				"beetogether.near": true,
+				"monza.near": true,
+				"jumpdefisocial.near": true,
+				"xuguangxia.near": true,
+				"deepspace9.near": true,
+				"achildhoodhero.near": true,
+				"nearnoborders.near": true,
+				"nearweek.near": true
+			}
+		}
+	},
+	"addigator.near": {
+		"graph": {
+			"follow": {
+				"cameron_banyan.near": true,
+				"jjyuan.near": true,
+				"joannaorlova.near": true,
+				"alejandro.near": true,
+				"natasham.near": true,
+				"nneoma.near": true,
+				"onboarder.near": true,
+				"bluntdao.near": true,
+				"root.near": true,
+				"hackerhouse.near": true,
+				"infinity.near": true,
+				"creativesdao.near": true,
+				"devs.near": true,
+				"ericweb3.near": true,
+				"0_o.starpause.near": true,
+				"davidmo.near": true,
+				"manzanal.near": true,
+				"superposition.near": true,
+				"minorityprogrammers.near": true,
+				"hack.near": true,
+				"kekgod.near": true,
+				"mob.near": true,
+				"readylayerone.near": true,
+				"microchipgnu.near": true,
+				"auroraecosystemnews.near": true
+			}
+		}
+	},
+	"alphaflexhub.near": {
+		"graph": {
+			"follow": {
+				"auroraecosystemnews.near": true,
+				"auroraafrica.near": true,
+				"as2.near": true,
+				"aurora_nftclub.near": true,
+				"nearnftclub.near": true,
+				"near": true,
+				"zavodil.near": true,
+				"cronus.near": true,
+				"duocelot.near": true,
+				"alejandro.near": true,
+				"onboarder.near": true,
+				"hackerhouse.near": true,
+				"rahulgoel.near": true,
+				"blaze.near": true,
+				"toolipse.near": true,
+				"cwpuzzles.near": true,
+				"tedlasso.near": true,
+				"markeljan.near": true,
+				"tiffany.near": true,
+				"tne_society.near": true,
+				"dach.near": true,
+				"rc-dao.sputnik-dao.near": true,
+				"hunters_super_team.near": true,
+				"lilcarterjr.near": true,
+				"roseline77.near": true,
+				"vianftbrasil.near": true,
+				"ogruss.near": true,
+				"africa-community.sputnik-dao.near": true,
+				"9jamusicaldao.sputnik-dao.near": true,
+				"og-sbt.sputnik-dao.near": true
+			}
+		}
+	},
+	"jason_zcy.near": {
+		"graph": {
+			"follow": {
+				"cronus.near": true
+			}
+		}
+	},
+	"5bb6e8fff07129df32f66bf2882d367bc5f2acc6f04ab4b4a6095de329f6a969": {
+		"graph": {
+			"follow": {
+				"cuongdcdev.near": true
+			}
+		}
+	},
+	"urbanite-social.near": {
+		"graph": {
+			"follow": {
+				"probnothing.near": true,
+				"abstractrabbit.near": true,
+				"chloe.near": true,
+				"chefsale.near": true,
+				"nearweek-news-contribution.sputnik-dao.near": true,
+				"bo.near": true,
+				"iamgalt.near": true,
+				"govworkinggroup.near": true,
+				"harshit.near": true,
+				"nearmax.near": true,
+				"aliaksandrh.near": true,
+				"toolipse.near": true,
+				"victoruche.near": true,
+				"manzanal.near": true,
+				"infinity.near": true,
+				"hack.near": true,
+				"cuongdcdev.near": true,
+				"radioevrazia.near": true,
+				"efremovd.near": true
+			}
+		}
+	},
+	"probnothing.near": {
+		"graph": {
+			"follow": {
+				"urbanite-social.near": true,
+				"root.near": true
+			}
+		}
+	},
+	"hashman.near": {
+		"graph": {
+			"follow": {
+				"root.near": true
+			}
+		}
+	},
+	"near1211.near": {
+		"graph": {
+			"follow": {
+				"keyokey.near": true,
+				"denysk.near": true
+			}
+		}
+	},
+	"dd3d804c5525cef938710295b8eeabaf9af837f5400e9e083b24f0a82f38fd10": {
+		"graph": {
+			"follow": {
+				"root.near": true
+			}
+		}
+	},
+	"mahkal.near": {
+		"graph": {
+			"follow": {
+				"daorecords.near": true,
+				"promo.fewandfar.near": true,
+				"rayfoster.near": true,
+				"marieke.near": true,
+				"readylayerone.near": true,
+				"infinitynft.near": true,
+				"microchipgnu.near": true
+			}
+		}
+	},
+	"creativesdao.near": {
+		"graph": {
+			"follow": {
+				"williamxx.near": true,
+				"sahilmassey.near": true,
+				"crans.near": true,
+				"hawwal.near": true,
+				"dedeukwu.near": true,
+				"chloe.near": true,
+				"wizzow.near": true,
+				"nate.near": true,
+				"davidmo.near": true,
+				"infinity.near": true,
+				"root.near": true,
+				"geminirisingv2.near": true,
+				"0_o.starpause.near": true,
+				"blaze.near": true,
+				"kcpesce.near": true,
+				"muticollective.near": true,
+				"marieke.near": true,
+				"james.near": true,
+				"vandal.near": true
+			}
+		}
+	},
+	"hawwal.near": {
+		"graph": {
+			"follow": {
+				"creativesdao.near": true,
+				"blaqkstereo.near": true
+			}
+		}
+	},
+	"marcelokunze.near": {
+		"graph": {
+			"follow": {
+				"microchipgnu.near": true,
+				"kuveke.near": true,
+				"luisinfante.near": true,
+				"metameech.near": true,
+				"mintbase.near": true,
+				"root.near": true,
+				"sainthiago.near": true,
+				"rub3n.near": true
+			}
+		}
+	},
+	"kuveke.near": {
+		"graph": {
+			"follow": {
+				"marcelokunze.near": true,
+				"microchipgnu.near": true,
+				"nate.near": true,
+				"carolin.near": true,
+				"benipsen.near": true,
+				"0_o.starpause.near": true,
+				"joannaorlova.near": true,
+				"alejandro.near": true,
+				"hypefairy.near": true,
+				"sainthiago.near": true,
+				"root.near": true,
+				"marieke.near": true
+			}
+		}
+	},
+	"mxjxn.near": {
+		"graph": {
+			"follow": {
+				"microchipgnu.near": true,
+				"chloe.near": true,
+				"vlad.near": true,
+				"duocelot.near": true,
+				"0_o.starpause.near": true,
+				"toolipse.near": true,
+				"fblauer.near": true,
+				"aliaksandrh.near": true,
+				"root.near": true,
+				"roganx.near": true,
+				"nate.near": true,
+				"vandal.near": true,
+				"alejandro.near": true,
+				"cavenaghi.near": true,
+				"auroraecosystemnews.near": true
+			}
+		}
+	},
+	"blurden.near": {
+		"graph": {
+			"follow": {
+				"creativesdao.near": true
+			}
+		}
+	},
+	"hapi.near": {
+		"graph": {
+			"follow": {
+				"self.social.near": true,
+				"blaze.near": true,
+				"vlad.near": true,
+				"hackerhouse.near": true,
+				"logunov.near": true,
+				"mob.near": true,
+				"root.near": true,
+				"neardevgov.near": true,
+				"jbryce.near": true,
+				"aliaksandrh.near": true,
+				"julie.near": true,
+				"woben.near": true,
+				"frol.near": true,
+				"marieke.near": true,
+				"nearmax.near": true,
+				"zavodil.near": true,
+				"iamgalt.near": true,
+				"nearweek-news-contribution.sputnik-dao.near": true
+			}
+		}
+	},
+	"mastrophot.near": {
+		"graph": {
+			"follow": {
+				"self.social.near": true,
+				"nekosocial.near": true,
+				"xuguangxia.near": true,
+				"nearukraineguild.near": true
+			}
+		}
+	},
+	"gorillashops.near": {
+		"graph": {
+			"follow": {
+				"toolipse.near": true,
+				"near-dapps.near": true,
+				"nearvietnamhub.near": true,
+				"gov.near": true,
+				"hackerhouse.near": true,
+				"nearnftclub.near": true,
+				"nearityorg.near": true
+			}
+		}
+	},
+	"jaysonkr.near": {
+		"graph": {
+			"follow": {
+				"gryptoguru.near": true,
+				"coineasydao.near": true
+			}
+		}
+	},
+	"vvr.near": {
+		"graph": {
+			"follow": {
+				"keyokey.near": true,
+				"andresanemic.near": true,
+				"0_o.starpause.near": true,
+				"roganx.near": true,
+				"iw3.near": true,
+				"nearmultiverse.near": true,
+				"andreapn.near": true,
+				"cuongdcdev.near": true,
+				"jtan79.near": true,
+				"royhodge.near": true,
+				"adminalpha.near": true,
+				"mooob.near": true,
+				"meta-pool-official.near": true,
+				"auroraecosystemnews.near": true,
+				"root.near": true,
+				"joybrix.near": true,
+				"microchipgnu.near": true,
+				"beetogether.near": true,
+				"ababdul1920.near": true
+			}
+		}
+	},
+	"dleer.near": {
+		"graph": {
+			"follow": {
+				"goatboy360.near": true
+			}
+		}
+	},
+	"booch.near": {
+		"graph": {
+			"follow": {
+				"hapi.near": true,
+				"mob.near": true,
+				"cronus.near": true,
+				"alejandro.near": true
+			}
+		}
+	},
+	"highlander7.near": {
+		"graph": {
+			"follow": {
+				"dleer.near": true,
+				"auroraecosystemnews.near": true,
+				"nearnftclub.near": true
+			}
+		}
+	},
+	"rezadeli.near": {
+		"graph": {
+			"follow": {
+				"oskarlee.near": true,
+				"auroraecosystemnews.near": true,
+				"jumpdefisocial.near": true,
+				"nearmedia.near": true,
+				"dach.near": true,
+				"near-deutsch.near": true,
+				"kemo.near": true,
+				"alejandro.near": true,
+				"nearmultiverse.near": true,
+				"hunters_super_team.near": true,
+				"vianftbrasil.near": true
+			}
+		}
+	},
+	"garvit_electron.near": {
+		"graph": {
+			"follow": {
+				"nearmax.near": true,
+				"root.near": true,
+				"nearindiahub.near": true,
+				"iamgalt.near": true,
+				"osmann.near": true,
+				"electron_labs.near": true,
+				"as2.near": true,
+				"mob.near": true,
+				"eskkoushik.near": true,
+				"ilerik.near": true,
+				"neardevgov.near": true,
+				"demodayis.near": true,
+				"near": true
+			}
+		}
+	},
+	"akohut.near": {
+		"graph": {
+			"follow": {
+				"pembrocker.near": true
+			}
+		}
+	},
+	"wizzow.near": {
+		"graph": {
+			"follow": {
+				"crans.near": true,
+				"creativesdao.near": true,
+				"daorecords.near": true,
+				"kcpesce.near": true,
+				"jcb.near": true,
+				"svaradao.near": true,
+				"mido4bs.near": true,
+				"maryrazel.near": true,
+				"marieke.near": true,
+				"vandal.near": true,
+				"williamxx.near": true,
+				"auroraecosystemnews.near": true,
+				"derymars.near": true,
+				"dellamc.near": true,
+				"bonepoliceofficial.near": true,
+				"root.near": true,
+				"kemo.near": true,
+				"indonesiaguild.near": true,
+				"jonblok.near": true,
+				"klarakopiv2.near": true,
+				"auroraindonesia.near": true,
+				"duocelot.near": true,
+				"skthealternator.near": true,
+				"cryptocoatl.near": true,
+				"yuesth.near": true,
+				"klarakopi.near": true,
+				"meteor-wallet.near": true,
+				"beatdao.near": true,
+				"creativesdao.sputnik-dao.near": true,
+				"neardigitalcollective.near": true,
+				"blaze.near": true,
+				"riqi.near": true,
+				"og-sbt.sputnik-dao.near": true,
+				"beat-dao.sputnik-dao.near": true
+			}
+		}
+	},
+	"caesai.near": {
+		"graph": {
+			"follow": {
+				"bratandronik235711.near": true
+			}
+		}
+	},
+	"tedlasso.near": {
+		"graph": {
+			"follow": {
+				"james.near": true,
+				"readylayerone.near": true,
+				"mob.near": true,
+				"davidmo.near": true,
+				"aliaksandrh.near": true,
+				"bennyblanco.near": true,
+				"0_o.starpause.near": true,
+				"nearmultiverse.near": true,
+				"nate.near": true,
+				"root.near": true,
+				"dleer.near": true,
+				"orangejoe.near": true,
+				"duocelot.near": true,
+				"alejandro.near": true,
+				"aurobot99.near": true,
+				"woben.near": true,
+				"rin.akaia.near": true,
+				"kianasquad.near": true,
+				"jarednotjerry.near": true,
+				"infinity.near": true,
+				"sharddog.near": true,
+				"sirs.near": true,
+				"luacan.near": true,
+				"aurobotsrollout.near": true,
+				"devochka.near": true,
+				"elcafecartel.near": true,
+				"rimberjack.near": true,
+				"krikkraktrak.near": true,
+				"odins_eyehole.near": true,
+				"as2.near": true,
+				"jehoti.near": true,
+				"mattlock.near": true,
+				"root.akaia.near": true,
+				"pierre-dev.near": true,
+				"whendacha.near": true,
+				"kriptoraptor.near": true,
+				"gusthecruel.near": true,
+				"goatboy360.near": true,
+				"toolipse.near": true,
+				"blaze.near": true,
+				"vlad.near": true,
+				"andreapn.near": true,
+				"reup.near": true,
+				"aescobar.near": true,
+				"hopiumm.near": true,
+				"itsmarcus.near": true,
+				"bigbrainmeta.near": true,
+				"rahulgoel.near": true,
+				"nearnftclub.near": true,
+				"borderlesscommunity.near": true,
+				"efiz.near": true,
+				"sainthiago.near": true,
+				"microchipgnu.near": true,
+				"obukhova.near": true,
+				"mintbase.near": true,
+				"scottie.near": true,
+				"yulian.near": true,
+				"soxa.near": true,
+				"zavodil.near": true,
+				"temtem124.near": true,
+				"brigadier.near": true,
+				"escobarindo.near": true,
+				"nearweek.near": true,
+				"achildhoodhero.near": true,
+				"xvii.near": true
+			}
+		}
+	},
+	"genadrop.near": {
+		"graph": {
+			"follow": {
+				"nearweek-news-contribution.sputnik-dao.near": true,
+				"p3ter.near": true,
+				"hackerhouse.near": true,
+				"chefsale.near": true,
+				"james.near": true,
+				"roshaan.near": true,
+				"alejandro.near": true,
+				"bluntdao.near": true,
+				"probnothing.near": true,
+				"linearprotocol.near": true,
+				"proximity_social.near": true,
+				"hackachain.near": true,
+				"openbisea.near": true,
+				"frichard5.near": true,
+				"jgodwill.near": true,
+				"soxa.near": true,
+				"x-13.near": true,
+				"cameron_banyan.near": true,
+				"kingdeemo.near": true,
+				"trophy001.near": true,
+				"ntare.near": true,
+				"flowscience.near": true,
+				"nycdao.near": true,
+				"sfdao.near": true,
+				"yuqisu.near": true,
+				"starpause.near": true,
+				"bianca.near": true,
+				"vn-artists-dao.near": true,
+				"gonzalito.near": true,
+				"aidenaidan.near": true,
+				"antran2809.near": true,
+				"nhitran789.near": true,
+				"ecbfd406a37b982ffa5f08a8bcef5c443c9c52e80bc78fb88bb600afd43d5d33": true,
+				"artemsemenov.near": true,
+				"neardc.near": true,
+				"cesar667.near": true,
+				"chaulan13.near": true,
+				"letruonghoan09.near": true,
+				"iam_prometheus.near": true,
+				"0xprometheus.near": true,
+				"amichael.near": true,
+				"67fe33da5d926910ec480377ea76d119efb39486e779db0735cdaaba11ec862b": true,
+				"iagods.near": true,
+				"web3hedge.near": true,
+				"dyndyn.near": true,
+				"cryptois.near": true,
+				"reup.near": true,
+				"jquant.near": true,
+				"3751efa63c92312d2324dc19f26c6ec15c869b72d39ef5c852e69067dca585da": true,
+				"anhthuwngyn.near": true,
+				"jjyuan.near": true,
+				"hoangvietanh.near": true,
+				"frol.near": true,
+				"deepspace9.near": true,
+				"kumarkrsronit.near": true,
+				"cc3bd941d9a2df34265d45cdb03ca6929abf6af983260da024671d62e63c431b": true,
+				"toolipse.near": true,
+				"428479bcfd42c19f689c6a0288c7d45e6685936d2fede598eee91ede20cd9d86": true,
+				"marieke.near": true,
+				"fblauer.near": true,
+				"taridekpen.near": true,
+				"minorityprogrammers.near": true,
+				"rimberjack.near": true,
+				"blackcatalyst.near": true,
+				"andreapn.near": true,
+				"drop.sputnik-dao.near": true,
+				"duocelot.near": true,
+				"chloe.near": true,
+				"mattb.near": true,
+				"victorkanu1.near": true
+			}
+		}
+	},
+	"ktxfauzy.near": {
+		"graph": {
+			"follow": {
+				"jumpdefisocial.near": true,
+				"nekosocial.near": true,
+				"murdermysterycollective.near": true
+			}
+		}
+	},
+	"eskkoushik.near": {
+		"graph": {
+			"follow": {
+				"garvit_electron.near": true,
+				"nearindiahub.near": true,
+				"samvelraja.near": true
+			}
+		}
+	},
+	"kimchiman.near": {
+		"graph": {
+			"follow": {
+				"nearweek-news-contribution.sputnik-dao.near": true,
+				"gryptoguru.near": true,
+				"root.near": true,
+				"oskarlee.near": true,
+				"0_o.starpause.near": true,
+				"dach.near": true,
+				"cavenaghi.near": true,
+				"toolipse.near": true,
+				"naughtyartist.near": true
+			}
+		}
+	},
+	"ilyatorgovnikov.near": {
+		"graph": {
+			"follow": {
+				"nearpavel.near": true
+			}
+		}
+	},
+	"westpalm.near": {
+		"graph": {
+			"follow": {
+				"bluntdao.near": true
+			}
+		}
+	},
+	"ndemole.near": {
+		"graph": {
+			"follow": {
+				"bangpateng.near": true
+			}
+		}
+	},
+	"superposition.near": {
+		"graph": {
+			"follow": {
+				"kekgod.near": true,
+				"neardevgov.near": true,
+				"devs.near": true,
+				"settlers.near": true,
+				"addigator.near": true,
+				"markeljan.near": true,
+				"davidmo.near": true,
+				"microchipgnu.near": true,
+				"hypefairy.near": true,
+				"settlers_buid.near": true,
+				"hack.near": true,
+				"nearmax.near": true,
+				"erik.near": true,
+				"root.near": true,
+				"pagodaplatform.near": true,
+				"efiz.near": true,
+				"2a646138f3b713b2c78f184095f7560338cc12268b46e19cd7d2ca41a5c8a4a0": true,
+				"mintbase.near": true
+			}
+		}
+	},
+	"fluxer.near": {
+		"graph": {
+			"follow": {
+				"hackerhouse.near": true,
+				"nearweek-news-contribution.sputnik-dao.near": true,
+				"rasmus.near": true,
+				"denysk.sputnik-dao.near": true
+			}
+		}
+	},
+	"dosma.near": {
+		"graph": {
+			"follow": {
+				"shitzucommunity.near": true,
+				"jumpdefisocial.near": true
+			}
+		}
+	},
+	"kcpesce.near": {
+		"graph": {
+			"follow": {
+				"creativesdao.near": true,
+				"root.near": true,
+				"infinity.near": true,
+				"marieke.near": true,
+				"sahilmassey.near": true,
+				"williamxx.near": true,
+				"vandal.near": true,
+				"crans.near": true,
+				"0_o.starpause.near": true,
+				"wizzow.near": true,
+				"blaze.near": true,
+				"kemo.near": true,
+				"rebecca.near": true,
+				"chloe.near": true,
+				"shrm.near": true,
+				"sanketn81.near": true,
+				"fritzwagner.near": true,
+				"marior.near": true,
+				"rahulgoel.near": true,
+				"p3ter.near": true,
+				"oddio3.near": true,
+				"derymars.near": true,
+				"frado.near": true,
+				"chapteronefoundation.near": true,
+				"creativesdao.sputnik-dao.near": true
+			}
+		}
+	},
+	"towanda.near": {
+		"graph": {
+			"follow": {
+				"metapool-official.near": true
+			}
+		}
+	},
+	"salikc9.near": {
+		"graph": {
+			"follow": {
+				"marieke.near": true,
+				"orangejoe.near": true,
+				"nearmax.near": true,
+				"rant.near": true,
+				"keypom.near": true,
+				"auroraecosystemnews.near": true,
+				"nearnftclub.near": true,
+				"buidlersclub.near": true,
+				"hypefairy.near": true,
+				"a13x.near": true,
+				"waldmatias.near": true,
+				"root.near": true,
+				"neardigitalcollective.near": true,
+				"cuongdcdev.near": true,
+				"haenko.near": true,
+				"bstt.near": true,
+				"rc-dao.near": true,
+				"nfcommunity.near": true,
+				"academy.near": true,
+				"mintlu.near": true,
+				"ndcplug.near": true,
+				"sirs.near": true,
+				"chloe.near": true,
+				"nneoma.near": true,
+				"fritzwagner.near": true,
+				"near-toronto-rc.near": true,
+				"proofofvibes.near": true,
+				"zahidulislam.near": true,
+				"yarotska.near": true,
+				"blaze.near": true,
+				"marmajgaming.near": true,
+				"near-africa.near": true
+			}
+		}
+	},
+	"obukhova.near": {
+		"graph": {
+			"follow": {
+				"root.near": true,
+				"microchipgnu.near": true,
+				"alejandro.near": true,
+				"minorityprogrammers.near": true,
+				"nearmultiverse.near": true,
+				"markeljan.near": true,
+				"blaze.near": true,
+				"hypefairy.near": true,
+				"govworkinggroup.near": true,
+				"mob.near": true,
+				"neardevgov.near": true
+			}
+		}
+	},
+	"jinou.near": {
+		"graph": {
+			"follow": {
+				"mob.near": true,
+				"near": true,
+				"keyokey.near": true,
+				"root.near": true,
+				"littlelion.near": true,
+				"mr27.near": true,
+				"dgorton.near": true,
+				"nearpavel.near": true,
+				"calebjacob.near": true,
+				"woben.near": true,
+				"oztanmain.near": true,
+				"auroraecosystemnews.near": true,
+				"dataplatform.near": true,
+				"marieke.near": true,
+				"root.benjiman.near": true,
+				"gagdiez.near": true,
+				"pagodaplatform.near": true,
+				"flatirons.near": true,
+				"pagoat.near": true,
+				"olga.near": true,
+				"zavodil.near": true,
+				"blaze.near": true,
+				"mike.near": true,
+				"chaotictempest.near": true,
+				"tigowa.near": true,
+				"keypom.near": true,
+				"tiffany.near": true,
+				"nearhorizon.near": true,
+				"nearbrasil.near": true,
+				"y3k.near": true,
+				"gauthamravi.near": true,
+				"charleslavon.near": true,
+				"laur.near": true,
+				"sarahbakermills.near": true,
+				"roshaan.near": true,
+				"idris22.near": true,
+				"theori.near": true
+			}
+		}
+	},
+	"donni.near": {
+		"graph": {
+			"follow": {
+				"0_o.starpause.near": true,
+				"nearmultiverse.near": true,
+				"sahilmassey.near": true,
+				"chloe.near": true,
+				"alejandro.near": true,
+				"hackerhouse.near": true,
+				"erik.near": true,
+				"marieke.near": true,
+				"root.near": true,
+				"neardevgov.near": true,
+				"self.social.near": true,
+				"infinity.near": true,
+				"cavenaghi.near": true,
+				"rasfies.near": true,
+				"rektdegen.near": true,
+				"web3hedge.near": true,
+				"near-global.near": true,
+				"nearbrasil.near": true,
+				"aurorabrazilguild.near": true,
+				"blaze.near": true,
+				"vianftbrasil.near": true,
+				"proofofvibes.near": true
+			}
+		}
+	},
+	"herdao.near": {
+		"graph": {
+			"follow": {
+				"nearweek-news-contribution.sputnik-dao.near": true
+			}
+		}
+	},
+	"664349c5cb66c6ebf8e406b7502a7c7adefaf3ecfbbd80ce7631922e339c9768": {
+		"graph": {
+			"follow": {
+				"kcpesce.near": true,
+				"vientosolar.near": true
+			}
+		}
+	}
+}
